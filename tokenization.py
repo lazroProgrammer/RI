@@ -50,5 +50,17 @@ def create_json_output():
         result[file] = process_file(file_path)
     
     json_output = json.dumps(result, indent=4)
-    with open('result.json', 'w', encoding='utf-8') as json_file:
+    with open('tokenized_docs.json', 'w', encoding='utf-8') as json_file:
         json_file.write(json_output)
+
+def get_unique_words(json_file):
+    unique_words = set()
+
+    with open(json_file, 'r') as file:
+        data = json.load(file)  # Parse JSON data
+
+    for word_list in data.values():
+        unique_words.update(word_list)  # Add words to the set
+    # words_list= list(unique_words)
+    # word_list.sort()
+    return sorted(unique_words)
