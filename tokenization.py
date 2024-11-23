@@ -1,4 +1,9 @@
+import json
+import os
 import re
+from pathlib import Path
+
+
 def tokenize(file_name):
     # Read the content of the file
     with open(file_name, 'r') as file:
@@ -21,3 +26,28 @@ def eliminateEmptyWords(tokenized_list: list[str]):
     # Write to the output file or return the list
     
     return filtered_lines
+
+
+def get_file_names(folder_path):
+    # Create a Path object for the folder
+    folder = Path(folder_path)
+    # Use glob to list all files (ignoring directories)
+    files = [f.name for f in folder.iterdir() if f.is_file()]
+    return files
+
+def process_file(file_path):
+
+    words = eliminateEmptyWords(tokenize(file_path))
+    return words
+
+def create_json_output():
+    result = {}
+    
+    files = get_file_names('Collection_TIME')
+    
+    for file in files:
+        file_path = os.path.join('Collection_TIME', file)
+        result[file] = process_file(file_path)
+    
+    json_output = json.dumps(result, indent=4)
+    return json_output
