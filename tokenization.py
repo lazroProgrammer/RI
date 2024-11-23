@@ -50,4 +50,5 @@ def create_json_output():
         result[file] = process_file(file_path)
     
     json_output = json.dumps(result, indent=4)
-    return json_output
+    with open('result.json', 'w', encoding='utf-8') as json_file:
+        json_file.write(json_output)
