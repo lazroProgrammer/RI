@@ -49,7 +49,7 @@ def find_words_starting_with(input_json_file, start_char):
     return matching_words
 
 def same_radical(word1, word2, isWord):
-    # if the two words are simmilar, it gives the radical
+    # if the two words are similar, it gives the radical
     # else it gives none
     if isWord:
         bigramme1=words_bigrams[word1]
@@ -70,7 +70,7 @@ def group_by_radicals_with_duplicates(input_json_file):
 
     radicals = []
 
-    for char, words in data.items():
+    for words in data.items():
         # memoizing
         visited = set()  
         for i, word1 in enumerate(words):
@@ -79,8 +79,8 @@ def group_by_radicals_with_duplicates(input_json_file):
                     continue  # Skip already processed pairs
                     
                 radical = same_radical(word1, word2,True)
+                visited.add((word1, word2))  # add it to the memo
                 if radical:
-                    visited.add((word1, word2))  # add it to the memo
                     radicals.append({"radical": radical, "words": [word1, word2]})
 
     write_json('outputs/grouped_by_radicals_with_duplicates.json',radicals) 
