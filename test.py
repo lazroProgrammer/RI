@@ -59,7 +59,8 @@ def find_missed_words(merged_file):
     return missed_words
     
 def main():
-    find_missed_words('grouped_by_radicals.json')
+    # find_missed_words('grouped_by_radicals.json')
+    find_missed_words('outputs/knowledge_table.json')
     # print(find_missed_words('grouped_by_radicals.json'))
     # find_missed_words('grouped_words_by_two.json')
     # print(find_missed_words('grouped_words_by_two.json'))

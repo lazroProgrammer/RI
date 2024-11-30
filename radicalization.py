@@ -1,6 +1,7 @@
 import json
 import string
 from tokenization import get_unique_words
+from test import *
 from collections import defaultdict
 
 with open("outputs/words/bigrams.json") as file:
@@ -290,13 +291,27 @@ def merge_radicals_and_words(file1, file2):
         {"radical": radical, "words": sorted(words)} for radical, words in merged_data.items()
     ]
     write_json("outputs/resulting_radicals/grouped_by_radicalized_radicals.json",output_data)
-def transform_to_dict(input, output):
-    with open(input, "r") as file:
-        data = json.load(file)
+def knowledge_table(radicals_file, missing_words):
+    with open(radicals_file) as file:
+        radicals_dict= json.load(file)
+    new_entries = []
 
-    result = {entry["radical"]: entry["words"] for entry in data}
-    write_json(output, result)
-    
+    for word in missing_words:
+        if not any(entry["radical"] == word for entry in radicals_dict):
+            new_entries.append({
+                "radical": word, 
+                "words": [word]   
+            })
+
+    # If there are new entries, append them to the original list
+    if new_entries:
+        radicals_dict.extend(new_entries)
+        print(f"Added {len(new_entries)} new entries.")
+    else:
+        print("No new words to add.")
+
+    write_json("outputs/knowledge_table.json", radicals_dict)
+      
     
 def radicalize_from_texts():
     # group_by_radicals_with_duplicates("outputs/grouped_words_by_two.json")
@@ -306,4 +321,4 @@ def radicalize_from_texts():
     # merge_radicals_of_radicals("outputs/radicalized_radicals.json","outputs/non_duplicated_radicalized_radicals.json")
     # remove_radicalized_radicals()
     # merge_radicals_and_words("outputs/grouped_by_radicals.json","outputs/non_duplicated_radicalized_radicals.json")
-    transform_to_dict("outputs/resulting_radicals/grouped_by_radicalized_radicals.json","outputs/resulting_radicals/radical_to_word.json")
+    knowledge_table("outputs/resulting_radicals/grouped_by_radicalized_radicals.json",find_missed_words('grouped_by_radicals.json'))

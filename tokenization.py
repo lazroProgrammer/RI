@@ -61,6 +61,5 @@ def get_unique_words(json_file):
 
     for word_list in data.values():
         unique_words.update(word_list)  # Add words to the set
-    # words_list= list(unique_words)
-    # word_list.sort()
+
     return sorted(unique_words)
