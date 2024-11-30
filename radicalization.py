@@ -48,27 +48,6 @@ def find_words_starting_with(input_json_file, start_char):
     matching_words = [word for word in words if word.lower().startswith(start_char)]
     return matching_words
 
-def get_allowed_characters():
-    chars = string.ascii_lowercase + string.digits  
-    return sorted(chars)
-
-def grouped_words_by_starting_caracter(input_json_file):
-    # generates indexed word collection, each entry is 
-    # defined by the first caracter
-    allowed_characters = get_allowed_characters() 
-    words_grouped = {char: [] for char in allowed_characters}
-    data = get_unique_words(input_json_file)
-
-    for word in data:
-        first_char = word[0].lower()
-        if first_char in words_grouped:
-            words_grouped[first_char].append(word)
-
-    with open('outputs/grouped_words.json', 'w') as outfile:
-        json.dump(words_grouped, outfile, indent=4, sort_keys=True)
-
-    print("outputs/Grouped words saved to 'grouped_words.json'")
-
 def same_radical(word1, word2, isWord):
     # if the two words are simmilar, it gives the radical
     # else it gives none

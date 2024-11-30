@@ -17,8 +17,6 @@ def main():
     
     # create_word_bigrams_json()
     
-    # print(get_allowed_characters())
-    # grouped_words_by_starting_caracter("indexed_docs.json")
     # print(compose_word_from_bigram(compare_and_match_bigrams(list1, list2)))
     # grouped_words_by_two("indexed_docs.json")
     start_time = time.time()
