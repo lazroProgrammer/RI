@@ -2,6 +2,7 @@ import json
 import os
 import re
 from pathlib import Path
+from collections import Counter
 
 
 def tokenize(file_name):
@@ -38,7 +39,10 @@ def get_file_names(folder_path):
 def process_file(file_path):
 
     words = eliminateEmptyWords(tokenize(file_path))
-    return words
+
+    token_count = Counter(words)
+
+    return dict(token_count)
 
 def create_json_output():
     result = {}
@@ -50,7 +54,7 @@ def create_json_output():
         result[file] = process_file(file_path)
     
     json_output = json.dumps(result, indent=4)
-    with open('tokenized_docs.json', 'w', encoding='utf-8') as json_file:
+    with open('tokenized_docs_count.json', 'w', encoding='utf-8') as json_file:
         json_file.write(json_output)
 
 def get_unique_words(json_file):
@@ -63,3 +67,4 @@ def get_unique_words(json_file):
         unique_words.update(word_list)  # Add words to the set
 
     return sorted(unique_words)
+
