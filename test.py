@@ -2,12 +2,12 @@ import json
 from radicalization import *
 
 word_count=23074
-with open('grouped_by_radicalized_radicals.json','r') as radicals_file:
+with open('outputs/resulting_radicals/grouped_by_radicalized_radicals.json','r') as radicals_file:
     radical_dict= json.load(radicals_file)
 def one_radical_per_term():
 # first it was 1931, second one is 1900, third 208, fourth 4
     to_eliminate_count=0
-    with open('bigrams.json', 'r') as file:
+    with open('outputs/words/bigrams.json', 'r') as file:
         words_to_bigram= json.load(file)
     radical_count_per_word={key : len(radical_per_word(key)) for key in words_to_bigram.keys()}
     for key, count in radical_count_per_word.items():
@@ -15,7 +15,7 @@ def one_radical_per_term():
             to_eliminate_count += count-1
             
     print(to_eliminate_count,"word duplications left")
-    with open("radicals_count.json", 'w') as outfile:
+    with open("outputs/radicals/radicals_count.json", 'w') as outfile:
         json.dump(radical_count_per_word, outfile, indent=4)        
 
 def radical_per_word(word):
@@ -35,7 +35,7 @@ def find_missed_words(merged_file):
     # Load the merged radicals JSON
     with open(merged_file, 'r') as file:
         merged_data = json.load(file)
-    with open('bigrams.json') as file:
+    with open('outputs/words/bigrams.json') as file:
         words_list=json.load(file)
         
     words_list= words_list.keys()
@@ -54,6 +54,8 @@ def find_missed_words(merged_file):
     # Find words that are not in the merged JSON
     missed_words = [word for word in words_list if word not in merged_words]
     print("there are",len(missed_words),"missed words out of", len(words_list))
+    with open("missed_words.json","w") as file:
+        json.dump(missed_words,file,indent=4, sort_keys=True)
     return missed_words
     
 def main():

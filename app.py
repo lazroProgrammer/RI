@@ -8,8 +8,8 @@ from radicalization import *
 
 def main():
     create_json_output()
-    list1= generate_bigramme("social")
-    list2= generate_bigramme("sociali")
+    list1= generate_bigramme("astonished")
+    list2= generate_bigramme("astonishing")
     print(list1)
     print(list2)
     print(compare_and_match_bigrams(list1, list2))
@@ -26,7 +26,6 @@ def main():
     # radicals_bigrams()
     # radicals_grouping()
     # group_by_radicals_with_duplicates("grouped_words_by_two.json")
-    # grouped_words_by_two_using_json("grouped_words_by_two.json")
     # merge_radicals("grouped_by_radicals_with_duplicates.json", "grouped_by_radicals.json")
     end_time = time.time()
     execution_time = end_time - start_time

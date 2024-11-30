@@ -1900,7 +1900,6 @@
         "radical": "comple",
         "words": [
             "compleat",
-            "complete",
             "complex",
             "complexes",
             "complexity"
@@ -7243,26 +7242,18 @@
         ]
     },
     {
-        "radical": "sociali",
-        "words": [
-            "socialism",
-            "socialismand",
-            "socialist",
-            "socialistic",
-            "socialists",
-            "socialize",
-            "socialized"
-        ]
-    },
-    {
         "radical": "social",
         "words": [
             "social",
             "socialism",
             "socialist",
+            "socialists",
+            "socialismand",
+            "socialistic",
             "socialite",
             "socialize",
-            "socially"
+            "socially",
+            "socialized"
         ]
     },
     {
