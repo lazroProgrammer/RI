@@ -35,6 +35,6 @@ def ponderate_tf_idf():
     with open("ponderated_docs.json", 'w', encoding='utf-8') as output_file:
         json.dump(tf_idf_docs, output_file, indent=4, ensure_ascii=False)
 
-    print(f"Ponderated JSON with TF-IDF weights saved to: {output_file.name}")
+
 
 

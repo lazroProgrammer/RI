@@ -8,7 +8,6 @@ def calculate_similarity():
     with open("ponderated_docs.json", 'r') as tf_idf_f:
         tf_idf_docs = json.load(tf_idf_f)
 
-    # Load the radicalized query JSON file
     with open("radicalized_query.json", 'r') as query_f:
         query = json.load(query_f)
 
@@ -28,7 +27,7 @@ def calculate_similarity():
         )
         similarity_scores[doc] = dot_product
 
-    # Save similarity scores to a JSON file
+    
     with open("outputs/score.json", 'w', encoding='utf-8') as output_f:
         json.dump(similarity_scores, output_f, indent=4, ensure_ascii=False)
 

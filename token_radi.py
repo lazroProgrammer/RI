@@ -1,6 +1,7 @@
 from tokenization import *
 from query_to_radical import *
 from produit_scalaire import *
+from sorting import *
 import json
 
 
@@ -11,9 +12,9 @@ def tokenrad(query):
 
     query_to_rad()
     calculate_similarity()
+    sort_json()
     
 
-tokenrad("hello aldjelfa enjoyers allied with adrar to do a flip againstn the allied algerians")
 
 
 
