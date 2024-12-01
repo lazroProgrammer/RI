@@ -5,11 +5,7 @@ from pathlib import Path
 from collections import Counter
 
 
-def tokenize(file_name):
-    # Read the content of the file
-    with open(file_name, 'r') as file:
-        content = file.read()
-
+def tokenize(content):
     # Remove special characters (keep only letters, numbers, and spaces)
     cleaned_content = re.sub(r'[^\w\s-]|(?<!\w)-|-(?!\w)', '', content)
     
@@ -38,7 +34,20 @@ def get_file_names(folder_path):
 
 def process_file(file_path):
 
-    words = eliminateEmptyWords(tokenize(file_path))
+    with open(file_path, 'r') as file:
+        content = file.read()
+
+    words = eliminateEmptyWords(tokenize(content))
+
+    token_count = Counter(words)
+
+    return dict(token_count)
+
+
+
+def process_query(query):
+
+    words = eliminateEmptyWords(tokenize(query))
 
     token_count = Counter(words)
 
