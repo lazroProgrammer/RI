@@ -3,7 +3,7 @@ import math
 from collections import defaultdict
 from radicalization import *
 
-def calculate_similarity():
+def produit_scalaire():
 
     with open("ponderated_docs.json", 'r') as tf_idf_f:
         tf_idf_docs = json.load(tf_idf_f)
@@ -33,3 +33,13 @@ def calculate_similarity():
 
     print(f"Similarity scores saved to: score.json")
     return similarity_scores
+
+def sort_scores():
+    
+    with open("outputs/score.json", 'r', encoding='utf-8') as file:
+        data = json.load(file)
+
+    sorted_data = dict(sorted(data.items(), key=lambda item: item[1], reverse=True))
+
+    with open("outputs/sorted_score.json", 'w', encoding='utf-8') as sorted_file:
+        json.dump(sorted_data, sorted_file, indent=4, ensure_ascii=False)

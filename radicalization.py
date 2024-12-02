@@ -189,7 +189,7 @@ def remove_radicalized_radicals():
 
         # add radical to the radical group 
         radicals.add(radical)
-            # if the radical is included in the map it puts the 
+            # if the radical is included in the map it puts the radicals list in the dict
         if radical in radical_map:
             # just to make sure it doesn't slip
             radical_map[radical].update(radicals)  # Adds the radicals to the set 

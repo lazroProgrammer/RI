@@ -7,6 +7,7 @@ from radicalization import *
 import json
 from collections import defaultdict
 def word_to_rad() :
+    # produces all indexes of the docs with radicals instead of words and their counts
     with open('outputs/knowledge_table.json', 'r') as kt_file:
         knowledge_table = json.load(kt_file)
 
@@ -19,7 +20,7 @@ def word_to_rad() :
         for word in entry["words"]:
             word_to_radical[word] = radical
 
-    # Initialize a dictionary to store radicalized documents with counts
+    # format it to {"doc":{"radical": count}}
     radicalized_docs = defaultdict(lambda: defaultdict(int))
 
     # Replace tokens with radicals and count appearances
@@ -35,6 +36,6 @@ def word_to_rad() :
     # Convert defaultdict to a regular dictionary for saving
     radicalized_docs = {doc: dict(counts) for doc, counts in radicalized_docs.items()}
 
-        with open('radicalized_docs_count.json', 'w', encoding='utf-8') as output_file:
-            json.dump(radicalized_docs, output_file, indent=4, ensure_ascii=False)
+    with open('radicalized_docs_count.json', 'w', encoding='utf-8') as output_file:
+        json.dump(radicalized_docs, output_file, indent=4, ensure_ascii=False)
     
