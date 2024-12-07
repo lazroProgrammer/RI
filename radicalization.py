@@ -70,7 +70,7 @@ def group_by_radicals_with_duplicates(input_json_file):
 
     radicals = []
 
-    for words in data.items():
+    for key, words in data.items():
         # memoizing
         visited = set()  
         for i, word1 in enumerate(words):
@@ -282,22 +282,18 @@ def knowledge_table(radicals_file, missing_words):
                 "words": [word]   
             })
 
-    # If there are new entries, append them to the original list
     if new_entries:
         radicals_dict.extend(new_entries)
-        print(f"Added {len(new_entries)} new entries.")
-    else:
-        print("No new words to add.")
 
     write_json("outputs/knowledge_table.json", radicals_dict)
       
     
 def radicalize_from_texts():
-    group_by_radicals_with_duplicates("outputs/grouped_words_by_two.json")
+    group_by_radicals_with_duplicates("outputs/words/grouped_words_by_two.json")
     merge_radicals("outputs/radicalization_process/grouped_by_radicals_with_duplicates.json", "outputs/radicalization_process/grouped_by_radicals.json")
-    radicals_bigrams()
+    # radicals_bigrams()
     radicals_grouping()
-    merge_radicals_of_radicals("outputs/radicalized_radicals.json","outputs/non_duplicated_radicalized_radicals.json")
+    merge_radicals_of_radicals("outputs/radicalization_process/radicalized_radicals.json","outputs/radicalization_process/non_duplicated_radicalized_radicals.json")
     remove_radicalized_radicals()
-    merge_radicals_and_words("outputs/grouped_by_radicals.json","outputs/non_duplicated_radicalized_radicals.json")
-    knowledge_table("outputs/resulting_radicals/grouped_by_radicalized_radicals.json",find_missed_words('grouped_by_radicals.json'))
+    merge_radicals_and_words("outputs/radicalization_process/grouped_by_radicals.json","outputs/radicalization_process/non_duplicated_radicalized_radicals.json")
+    knowledge_table("outputs/resulting_radicals/grouped_by_radicalized_radicals.json",find_missed_words('outputs/radicalization_process/grouped_by_radicals.json'))

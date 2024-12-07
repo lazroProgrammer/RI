@@ -11,8 +11,8 @@ def tokenize(content):
     
     # split the content into words by spaces
     words = cleaned_content.lower().split()
-    
     return words
+
 def eliminateEmptyWords(tokenized_list: list[str]):
     with open('empty_words.txt', 'r') as file:
         remove_set = {line.strip() for line in file if line.strip() != ""}
@@ -33,35 +33,28 @@ def get_file_names(folder_path):
     return files
 
 def process_file(file_path):
-
     with open(file_path, 'r') as file:
         content = file.read()
-
+        
     words = eliminateEmptyWords(tokenize(content))
-
     token_count = Counter(words)
-
     return dict(token_count)
 
 
 
 def process_query(query):
-
     words = eliminateEmptyWords(tokenize(query))
-
     token_count = Counter(words)
-
     return dict(token_count)
 
 def create_json_output():
     result = {}
-    
     files = get_file_names('Collection_TIME')
-    
+
     for file in files:
         file_path = os.path.join('Collection_TIME', file)
         result[file] = process_file(file_path)
-    
+
     json_output = json.dumps(result, indent=4)
     with open('tokenized_docs_count.json', 'w', encoding='utf-8') as json_file:
         json_file.write(json_output)

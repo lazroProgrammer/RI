@@ -1900,6 +1900,7 @@
         "radical": "comple",
         "words": [
             "compleat",
+            "complete",
             "complex",
             "complexes",
             "complexity"
@@ -2084,19 +2085,19 @@
         ]
     },
     {
-        "radical": "conspir",
+        "radical": "conspira",
         "words": [
             "conspiracies",
             "conspiracy",
-            "conspire",
-            "conspired"
+            "conspirator",
+            "conspirators"
         ]
     },
     {
-        "radical": "conspira",
+        "radical": "conspir",
         "words": [
-            "conspirator",
-            "conspirators"
+            "conspire",
+            "conspired"
         ]
     },
     {
@@ -4988,9 +4989,8 @@
         ]
     },
     {
-        "radical": "modern",
+        "radical": "moderni",
         "words": [
-            "modern",
             "modernistic",
             "modernists",
             "modernize",
@@ -4998,8 +4998,11 @@
         ]
     },
     {
-        "radical": "moderni",
-        "words": []
+        "radical": "modern",
+        "words": [
+            "modern",
+            "modernize"
+        ]
     },
     {
         "radical": "monarch",
@@ -7242,18 +7245,26 @@
         ]
     },
     {
+        "radical": "sociali",
+        "words": [
+            "socialism",
+            "socialismand",
+            "socialist",
+            "socialistic",
+            "socialists",
+            "socialize",
+            "socialized"
+        ]
+    },
+    {
         "radical": "social",
         "words": [
             "social",
             "socialism",
             "socialist",
-            "socialists",
-            "socialismand",
-            "socialistic",
             "socialite",
             "socialize",
-            "socially",
-            "socialized"
+            "socially"
         ]
     },
     {
