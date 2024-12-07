@@ -1828,12 +1828,8 @@
         ]
     },
     {
-        "radical": "commun",
+        "radical": "communi",
         "words": [
-            "communal",
-            "communally",
-            "commune",
-            "communes",
             "communism",
             "communismo",
             "communisms",
@@ -1845,8 +1841,13 @@
         ]
     },
     {
-        "radical": "communi",
-        "words": []
+        "radical": "commun",
+        "words": [
+            "communal",
+            "communally",
+            "commune",
+            "communes"
+        ]
     },
     {
         "radical": "commute",
@@ -1887,23 +1888,22 @@
         ]
     },
     {
-        "radical": "complet",
+        "radical": "comple",
         "words": [
+            "compleat",
             "complete",
             "completed",
             "completely",
             "completing",
-            "completion"
-        ]
-    },
-    {
-        "radical": "comple",
-        "words": [
-            "compleat",
+            "completion",
             "complex",
             "complexes",
             "complexity"
         ]
+    },
+    {
+        "radical": "complet",
+        "words": []
     },
     {
         "radical": "complicat",
@@ -4218,26 +4218,26 @@
         ]
     },
     {
+        "radical": "intens",
+        "words": [
+            "intense",
+            "intensely",
+            "intensified",
+            "intensify"
+        ]
+    },
+    {
         "radical": "inten",
         "words": [
             "intend",
             "intended",
             "intending",
             "intends",
-            "intense",
-            "intensely",
             "intent",
             "intention",
             "intentionally",
             "intentions",
             "intently"
-        ]
-    },
-    {
-        "radical": "intens",
-        "words": [
-            "intensified",
-            "intensify"
         ]
     },
     {
@@ -4988,9 +4988,8 @@
         ]
     },
     {
-        "radical": "modern",
+        "radical": "moderni",
         "words": [
-            "modern",
             "modernistic",
             "modernists",
             "modernize",
@@ -4998,8 +4997,11 @@
         ]
     },
     {
-        "radical": "moderni",
-        "words": []
+        "radical": "modern",
+        "words": [
+            "modern",
+            "modernize"
+        ]
     },
     {
         "radical": "monarch",
@@ -7242,18 +7244,26 @@
         ]
     },
     {
+        "radical": "sociali",
+        "words": [
+            "socialism",
+            "socialismand",
+            "socialist",
+            "socialistic",
+            "socialists",
+            "socialize",
+            "socialized"
+        ]
+    },
+    {
         "radical": "social",
         "words": [
             "social",
             "socialism",
             "socialist",
-            "socialists",
-            "socialismand",
-            "socialistic",
             "socialite",
             "socialize",
-            "socially",
-            "socialized"
+            "socially"
         ]
     },
     {
