@@ -1,19 +1,15 @@
 import streamlit as st
 import json
 import os
-
-from token_radi import tokenrad
 from tokenization import *
 from query_to_radical import *
 from produit_scalaire import *
 import json
 
-
 def processQuery_and_class_docs(query):
     tokenauery=process_query(query)
     with open("input_file.json", 'w', encoding='utf-8') as input_file:
             json.dump(tokenauery, input_file, indent=4, ensure_ascii=False)
-
     query_to_rad()
     produit_scalaire()
     sort_scores()

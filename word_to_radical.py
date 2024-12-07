@@ -1,9 +1,5 @@
-import time
-from tokenization import create_json_output, get_unique_words
-import math 
-    
+from tokenization import create_json_output, get_unique_words 
 from radicalization import *
-
 import json
 from collections import defaultdict
 def word_to_rad() :
@@ -38,4 +34,22 @@ def word_to_rad() :
 
     with open('radicalized_docs_count.json', 'w', encoding='utf-8') as output_file:
         json.dump(radicalized_docs, output_file, indent=4, ensure_ascii=False)
+
+def transform_doc_word_counts():
+    with open("radicalized_docs_count.json", 'r') as file:
+        radicalized_docs = json.load(file)
+
+    fichier_inverse = defaultdict(lambda: {"nb_docs": 0, "docs": {}})
     
+    for doc, word_counts in radicalized_docs.items():
+        for word, count in word_counts.items():
+            if word not in fichier_inverse:
+                fichier_inverse[word] = {"nb_docs": 0, "docs": {}}
+            fichier_inverse[word]["docs"][doc] = count
+            fichier_inverse[word]["nb_docs"] += 1
+
+    transformed_output = [{"word": word, "nb_docs": data["nb_docs"], "docs": data["docs"]} for word, data in fichier_inverse.items()]
+
+    with open("transformed_word_to_docs.json", 'w', encoding='utf-8') as output_file:
+        json.dump(transformed_output, output_file, indent=4, ensure_ascii=False)
+transform_doc_word_counts()

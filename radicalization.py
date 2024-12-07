@@ -83,7 +83,7 @@ def group_by_radicals_with_duplicates(input_json_file):
                 if radical:
                     radicals.append({"radical": radical, "words": [word1, word2]})
 
-    write_json('outputs/grouped_by_radicals_with_duplicates.json',radicals) 
+    write_json('outputs/radicalization_process/grouped_by_radicals_with_duplicates.json',radicals) 
 
 def grouped_words_by_two(input_json_file):
     # group words by the first bigram (to make the algorithm faster)
@@ -103,7 +103,7 @@ def grouped_words_by_two(input_json_file):
     for bigram in bigram_groups:
         bigram_groups[bigram] = list(set(bigram_groups[bigram]))
 
-    write_json('outputs/grouped_words_by_two.json', bigram_groups)
+    write_json('outputs/words/grouped_words_by_two.json', bigram_groups)
         
 
 def merge_radicals(input_file, output_file):
@@ -131,14 +131,14 @@ def merge_radicals(input_file, output_file):
     
 def radicals_bigrams():
     #bigrams of the all radicals (before elimination)
-    with open("outputs/grouped_by_radicals.json","r") as file:
+    with open("outputs/radicalization_process/grouped_by_radicals.json","r") as file:
         radicals_dict=json.load(file)
     radicals=[entry["radical"] for entry in radicals_dict]
     create_word_bigrams_json(radicals,"outputs/radicals_bigram.json")
     
 def radicals_grouping():
     # groups radicals that have more than a 75% similarity level two by two
-    with open("outputs/radicals_bigram.json","r") as file:
+    with open("outputs/radicals/radicals_bigram.json","r") as file:
         radicals_to_bigrams= json.load(file)
         # memoizing
         visited = set()
@@ -154,7 +154,7 @@ def radicals_grouping():
             if radical:
                 visited.add((radical1, radical2))  # Mark the pair as processed
                 radicalized_radicals.append({"radical": radical, "radicals": [radical1, radical2]})
-    write_json("outputs/radicalized_radicals.json", radicalized_radicals)
+    write_json("outputs/radicalization_process/radicalized_radicals.json", radicalized_radicals)
     
 def merge_radicals_of_radicals(input_file, output_file):
     # merge the radicalized radicals
@@ -179,7 +179,7 @@ def merge_radicals_of_radicals(input_file, output_file):
 def remove_radicalized_radicals():
     # group each radical group with the smallest common radical
 
-    with open("outputs/non_duplicated_radicalized_radicals.json") as file:
+    with open("outputs/radicalization_process/non_duplicated_radicalized_radicals.json") as file:
         radic_dict= json.load(file)
     radical_map = {}
 
@@ -210,7 +210,7 @@ def remove_radicalized_radicals():
         {"radical": key, "radicals": sorted(list(radicals))}
         for key, radicals in radical_map.items()
     ]
-    write_json("outputs/merged_radicals_groups.json",result)
+    write_json("outputs/radicalization_process/merged_radicals_groups.json",result)
     
 def merge_radicals_and_words(file1, file2):
     with open(file1, 'r') as f1, open(file2, 'r') as f2:
@@ -293,11 +293,11 @@ def knowledge_table(radicals_file, missing_words):
       
     
 def radicalize_from_texts():
-    # group_by_radicals_with_duplicates("outputs/grouped_words_by_two.json")
-    # merge_radicals("outputs/grouped_by_radicals_with_duplicates.json", "outputs/grouped_by_radicals.json")
-    # radicals_bigrams()
-    # radicals_grouping()
-    # merge_radicals_of_radicals("outputs/radicalized_radicals.json","outputs/non_duplicated_radicalized_radicals.json")
-    # remove_radicalized_radicals()
-    # merge_radicals_and_words("outputs/grouped_by_radicals.json","outputs/non_duplicated_radicalized_radicals.json")
+    group_by_radicals_with_duplicates("outputs/grouped_words_by_two.json")
+    merge_radicals("outputs/radicalization_process/grouped_by_radicals_with_duplicates.json", "outputs/radicalization_process/grouped_by_radicals.json")
+    radicals_bigrams()
+    radicals_grouping()
+    merge_radicals_of_radicals("outputs/radicalized_radicals.json","outputs/non_duplicated_radicalized_radicals.json")
+    remove_radicalized_radicals()
+    merge_radicals_and_words("outputs/grouped_by_radicals.json","outputs/non_duplicated_radicalized_radicals.json")
     knowledge_table("outputs/resulting_radicals/grouped_by_radicalized_radicals.json",find_missed_words('grouped_by_radicals.json'))

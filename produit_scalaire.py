@@ -18,21 +18,18 @@ def produit_scalaire():
         query_tf_idf[radical] = count 
 
     # Compute similarity scores (dot product) between the query and each document
-    similarity_scores = {}
-    for doc, tf_idf_weights in tf_idf_docs.items():
-        # Dot product calculation
-        dot_product = sum(
-            query_tf_idf.get(radical, 0) * tf_idf_weights.get(radical, 0)
-            for radical in query_tf_idf
-        )
-        similarity_scores[doc] = dot_product
+    scores = defaultdict(float)
+    for radical, doc_weights in tf_idf_docs.items():
+        if radical in query_tf_idf:
+            for doc, tf_idf_weight in doc_weights.items():
+                scores[doc] += query_tf_idf[radical] * tf_idf_weight
 
     
     with open("outputs/score.json", 'w', encoding='utf-8') as output_f:
-        json.dump(similarity_scores, output_f, indent=4, ensure_ascii=False)
+        json.dump(scores, output_f, indent=4, ensure_ascii=False)
 
     print(f"Similarity scores saved to: score.json")
-    return similarity_scores
+    return scores
 
 def sort_scores():
     
