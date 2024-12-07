@@ -11,17 +11,17 @@ def produit_scalaire():
     with open("radicalized_query.json", 'r') as query_f:
         query = json.load(query_f)
 
-    # Calculate the query's TF-IDF weights
+    # calculate the query's TF-IDF weights
     query_tf_idf = {}
     total_query_terms = sum(query.values())
     for radical, count in query.items():
         query_tf_idf[radical] = count 
 
-    # Compute similarity scores (dot product) between the query and each document
+    # compute similarity scores between the query and each document
     scores = defaultdict(float)
-    for radical, doc_weights in tf_idf_docs.items():
+    for radical, terms_weights in tf_idf_docs.items():
         if radical in query_tf_idf:
-            for doc, tf_idf_weight in doc_weights.items():
+            for doc, tf_idf_weight in terms_weights.items():
                 scores[doc] += query_tf_idf[radical] * tf_idf_weight
 
     

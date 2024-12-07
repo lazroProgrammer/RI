@@ -32,26 +32,26 @@ def test_bigrams():
         print("test succeded")
         
 def find_missed_words(merged_file):
-    # Load the merged radicals JSON
+    # load the merged radicals JSON
     with open(merged_file, 'r') as file:
         merged_data = json.load(file)
     with open('outputs/words/bigrams.json') as file:
         words_list=json.load(file)
         
     words_list= words_list.keys()
-    # Flatten all words in the merged JSON into a single set
+    # flatten all words in the merged JSON into a single set
     merged_words = set()
 
-    # Check if merged_data is a dictionary-based format
+    # check if merged_data is a dictionary-based format
     if isinstance(merged_data, dict):
         for words in merged_data.values():
             merged_words.update(words)
 
-    # If merged_data is a list of dictionaries, handle that format
+    # if merged_data is a list of dictionaries, handle that format
     elif isinstance(merged_data, list):
         for entry in merged_data:
             merged_words.update(entry["words"])
-    # Find words that are not in the merged JSON
+    # find words that are not in the merged JSON
     missed_words = [word for word in words_list if word not in merged_words]
     print("there are",len(missed_words),"missed words out of", len(words_list))
     with open("missed_words.json","w") as file:

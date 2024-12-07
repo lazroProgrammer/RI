@@ -19,17 +19,17 @@ def word_to_rad() :
     # format it to {"doc":{"radical": count}}
     radicalized_docs = defaultdict(lambda: defaultdict(int))
 
-    # Replace tokens with radicals and count appearances
+    # replace tokens with radicals and count appearances
     for doc_name, word_counts in tokenized_docs.items():
         for word, count in word_counts.items():
             if word in word_to_radical:
                 radical = word_to_radical[word]
                 radicalized_docs[doc_name][radical] += count
             else:
-                # If the word doesn't have a corresponding radical, skip or include as is
+                # if the word doesn't have a corresponding radical skip 
                 continue
 
-    # Convert defaultdict to a regular dictionary for saving
+    # convert defaultdict to a regular dictionary for saving
     radicalized_docs = {doc: dict(counts) for doc, counts in radicalized_docs.items()}
 
     with open('radicalized_docs_count.json', 'w', encoding='utf-8') as output_file:

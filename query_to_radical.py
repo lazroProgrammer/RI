@@ -9,17 +9,16 @@ def query_to_rad():
     with open("input_file.json", 'r', encoding='utf-8') as input_fil:
         tokenized_words = json.load(input_fil)
 
-    # Create a mapping from words to radicals
+    # create a mapping from words to radicals
     word_to_radical = {}
     for entry in knowledge_table:
         radical = entry["radical"]
         for word in entry["words"]:
             word_to_radical[word] = radical
 
-    # Initialize a dictionary to store radicalized words with counts
     radicalized_words = defaultdict(int)
 
-    # Replace tokens with radicals and count appearances
+    # replace tokens with radicals and count appearances
     for word, count in tokenized_words.items():
         if word in word_to_radical:
             radical = word_to_radical[word]
