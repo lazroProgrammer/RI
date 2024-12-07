@@ -1828,8 +1828,12 @@
         ]
     },
     {
-        "radical": "communi",
+        "radical": "commun",
         "words": [
+            "communal",
+            "communally",
+            "commune",
+            "communes",
             "communism",
             "communismo",
             "communisms",
@@ -1841,13 +1845,8 @@
         ]
     },
     {
-        "radical": "commun",
-        "words": [
-            "communal",
-            "communally",
-            "commune",
-            "communes"
-        ]
+        "radical": "communi",
+        "words": []
     },
     {
         "radical": "commute",
@@ -1888,22 +1887,24 @@
         ]
     },
     {
-        "radical": "comple",
+        "radical": "complet",
         "words": [
-            "compleat",
             "complete",
             "completed",
             "completely",
             "completing",
-            "completion",
+            "completion"
+        ]
+    },
+    {
+        "radical": "comple",
+        "words": [
+            "compleat",
+            "complete",
             "complex",
             "complexes",
             "complexity"
         ]
-    },
-    {
-        "radical": "complet",
-        "words": []
     },
     {
         "radical": "complicat",
@@ -2084,19 +2085,19 @@
         ]
     },
     {
-        "radical": "conspir",
+        "radical": "conspira",
         "words": [
             "conspiracies",
             "conspiracy",
-            "conspire",
-            "conspired"
+            "conspirator",
+            "conspirators"
         ]
     },
     {
-        "radical": "conspira",
+        "radical": "conspir",
         "words": [
-            "conspirator",
-            "conspirators"
+            "conspire",
+            "conspired"
         ]
     },
     {
@@ -4218,26 +4219,26 @@
         ]
     },
     {
-        "radical": "intens",
-        "words": [
-            "intense",
-            "intensely",
-            "intensified",
-            "intensify"
-        ]
-    },
-    {
         "radical": "inten",
         "words": [
             "intend",
             "intended",
             "intending",
             "intends",
+            "intense",
+            "intensely",
             "intent",
             "intention",
             "intentionally",
             "intentions",
             "intently"
+        ]
+    },
+    {
+        "radical": "intens",
+        "words": [
+            "intensified",
+            "intensify"
         ]
     },
     {

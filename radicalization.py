@@ -282,12 +282,8 @@ def knowledge_table(radicals_file, missing_words):
                 "words": [word]   
             })
 
-    # If there are new entries, append them to the original list
     if new_entries:
         radicals_dict.extend(new_entries)
-        print(f"Added {len(new_entries)} new entries.")
-    else:
-        print("No new words to add.")
 
     write_json("outputs/knowledge_table.json", radicals_dict)
       
