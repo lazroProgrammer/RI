@@ -1,0 +1,8582 @@
+[
+    {
+        "radical": "100",
+        "radicals": [
+            "100",
+            "1000"
+        ]
+    },
+    {
+        "radical": "1000",
+        "radicals": [
+            "1000",
+            "10000"
+        ]
+    },
+    {
+        "radical": "10000",
+        "radicals": [
+            "10000",
+            "100000"
+        ]
+    },
+    {
+        "radical": "120",
+        "radicals": [
+            "120",
+            "1200"
+        ]
+    },
+    {
+        "radical": "1200",
+        "radicals": [
+            "1200",
+            "12000"
+        ]
+    },
+    {
+        "radical": "12000",
+        "radicals": [
+            "12000",
+            "120000"
+        ]
+    },
+    {
+        "radical": "130",
+        "radicals": [
+            "130",
+            "1300"
+        ]
+    },
+    {
+        "radical": "1300",
+        "radicals": [
+            "1300",
+            "13000"
+        ]
+    },
+    {
+        "radical": "140",
+        "radicals": [
+            "140",
+            "1400"
+        ]
+    },
+    {
+        "radical": "1400",
+        "radicals": [
+            "1400",
+            "14000"
+        ]
+    },
+    {
+        "radical": "14000",
+        "radicals": [
+            "14000",
+            "140000"
+        ]
+    },
+    {
+        "radical": "150",
+        "radicals": [
+            "150",
+            "1500"
+        ]
+    },
+    {
+        "radical": "1500",
+        "radicals": [
+            "1500",
+            "15000"
+        ]
+    },
+    {
+        "radical": "15000",
+        "radicals": [
+            "15000",
+            "150000"
+        ]
+    },
+    {
+        "radical": "160",
+        "radicals": [
+            "160",
+            "1600"
+        ]
+    },
+    {
+        "radical": "180",
+        "radicals": [
+            "180",
+            "1800"
+        ]
+    },
+    {
+        "radical": "1800",
+        "radicals": [
+            "1800",
+            "18000"
+        ]
+    },
+    {
+        "radical": "18000",
+        "radicals": [
+            "18000",
+            "180000"
+        ]
+    },
+    {
+        "radical": "198",
+        "radicals": [
+            "198",
+            "1980"
+        ]
+    },
+    {
+        "radical": "200",
+        "radicals": [
+            "200",
+            "2000"
+        ]
+    },
+    {
+        "radical": "2000",
+        "radicals": [
+            "2000",
+            "20000"
+        ]
+    },
+    {
+        "radical": "20000",
+        "radicals": [
+            "20000",
+            "200000"
+        ]
+    },
+    {
+        "radical": "210",
+        "radicals": [
+            "210",
+            "2100"
+        ]
+    },
+    {
+        "radical": "250",
+        "radicals": [
+            "250",
+            "2500"
+        ]
+    },
+    {
+        "radical": "2500",
+        "radicals": [
+            "2500",
+            "25000"
+        ]
+    },
+    {
+        "radical": "25000",
+        "radicals": [
+            "25000",
+            "250000"
+        ]
+    },
+    {
+        "radical": "280",
+        "radicals": [
+            "280",
+            "2800"
+        ]
+    },
+    {
+        "radical": "2800",
+        "radicals": [
+            "2800",
+            "28000"
+        ]
+    },
+    {
+        "radical": "300",
+        "radicals": [
+            "300",
+            "3000"
+        ]
+    },
+    {
+        "radical": "3000",
+        "radicals": [
+            "3000",
+            "30000"
+        ]
+    },
+    {
+        "radical": "30000",
+        "radicals": [
+            "30000",
+            "300000"
+        ]
+    },
+    {
+        "radical": "32000",
+        "radicals": [
+            "32000",
+            "320000"
+        ]
+    },
+    {
+        "radical": "350",
+        "radicals": [
+            "350",
+            "3500"
+        ]
+    },
+    {
+        "radical": "3500",
+        "radicals": [
+            "3500",
+            "35000"
+        ]
+    },
+    {
+        "radical": "35000",
+        "radicals": [
+            "35000",
+            "350000"
+        ]
+    },
+    {
+        "radical": "400",
+        "radicals": [
+            "400",
+            "4000"
+        ]
+    },
+    {
+        "radical": "4000",
+        "radicals": [
+            "4000",
+            "40000"
+        ]
+    },
+    {
+        "radical": "40000",
+        "radicals": [
+            "40000",
+            "400000"
+        ]
+    },
+    {
+        "radical": "450",
+        "radicals": [
+            "450",
+            "4500"
+        ]
+    },
+    {
+        "radical": "500",
+        "radicals": [
+            "500",
+            "5000"
+        ]
+    },
+    {
+        "radical": "5000",
+        "radicals": [
+            "5000",
+            "50000"
+        ]
+    },
+    {
+        "radical": "50000",
+        "radicals": [
+            "50000",
+            "500000"
+        ]
+    },
+    {
+        "radical": "560",
+        "radicals": [
+            "560",
+            "5600"
+        ]
+    },
+    {
+        "radical": "5600",
+        "radicals": [
+            "5600",
+            "56000"
+        ]
+    },
+    {
+        "radical": "600",
+        "radicals": [
+            "600",
+            "6000"
+        ]
+    },
+    {
+        "radical": "6000",
+        "radicals": [
+            "6000",
+            "60000"
+        ]
+    },
+    {
+        "radical": "60000",
+        "radicals": [
+            "60000",
+            "600000"
+        ]
+    },
+    {
+        "radical": "650",
+        "radicals": [
+            "650",
+            "6500"
+        ]
+    },
+    {
+        "radical": "6500",
+        "radicals": [
+            "6500",
+            "65000"
+        ]
+    },
+    {
+        "radical": "800",
+        "radicals": [
+            "800",
+            "8000"
+        ]
+    },
+    {
+        "radical": "8000",
+        "radicals": [
+            "8000",
+            "80000"
+        ]
+    },
+    {
+        "radical": "80000",
+        "radicals": [
+            "80000",
+            "800000"
+        ]
+    },
+    {
+        "radical": "900",
+        "radicals": [
+            "900",
+            "9000"
+        ]
+    },
+    {
+        "radical": "9000",
+        "radicals": [
+            "9000",
+            "90000"
+        ]
+    },
+    {
+        "radical": "absolut",
+        "radicals": [
+            "absolute",
+            "absolutis"
+        ]
+    },
+    {
+        "radical": "abstract",
+        "radicals": [
+            "abstract",
+            "abstraction"
+        ]
+    },
+    {
+        "radical": "accident",
+        "radicals": [
+            "accident",
+            "accidental"
+        ]
+    },
+    {
+        "radical": "accompli",
+        "radicals": [
+            "accompli",
+            "accomplish"
+        ]
+    },
+    {
+        "radical": "acknowledg",
+        "radicals": [
+            "acknowledg",
+            "acknowledge"
+        ]
+    },
+    {
+        "radical": "acquit",
+        "radicals": [
+            "acquit",
+            "acquittal"
+        ]
+    },
+    {
+        "radical": "addition",
+        "radicals": [
+            "addition",
+            "additional"
+        ]
+    },
+    {
+        "radical": "address",
+        "radicals": [
+            "address",
+            "addresse"
+        ]
+    },
+    {
+        "radical": "adheren",
+        "radicals": [
+            "adheren",
+            "adherent"
+        ]
+    },
+    {
+        "radical": "administrat",
+        "radicals": [
+            "administrat",
+            "administrati",
+            "administration",
+            "administrator"
+        ]
+    },
+    {
+        "radical": "administrati",
+        "radicals": [
+            "administrati",
+            "administration"
+        ]
+    },
+    {
+        "radical": "admira",
+        "radicals": [
+            "admirabl",
+            "admiral"
+        ]
+    },
+    {
+        "radical": "admire",
+        "radicals": [
+            "admire",
+            "admirer"
+        ]
+    },
+    {
+        "radical": "advent",
+        "radicals": [
+            "advent",
+            "adventur",
+            "adventure"
+        ]
+    },
+    {
+        "radical": "adventur",
+        "radicals": [
+            "adventur",
+            "adventure",
+            "adventurer"
+        ]
+    },
+    {
+        "radical": "adventure",
+        "radicals": [
+            "adventure",
+            "adventurer"
+        ]
+    },
+    {
+        "radical": "advise",
+        "radicals": [
+            "advise",
+            "adviser"
+        ]
+    },
+    {
+        "radical": "affect",
+        "radicals": [
+            "affect",
+            "affection"
+        ]
+    },
+    {
+        "radical": "affirmati",
+        "radicals": [
+            "affirmati",
+            "affirmation"
+        ]
+    },
+    {
+        "radical": "africa",
+        "radicals": [
+            "africa",
+            "african"
+        ]
+    },
+    {
+        "radical": "afro-asia",
+        "radicals": [
+            "afro-asia",
+            "afro-asian"
+        ]
+    },
+    {
+        "radical": "aggravat",
+        "radicals": [
+            "aggravat",
+            "aggravate"
+        ]
+    },
+    {
+        "radical": "aggress",
+        "radicals": [
+            "aggressi",
+            "aggressor"
+        ]
+    },
+    {
+        "radical": "aggressi",
+        "radicals": [
+            "aggressi",
+            "aggression",
+            "aggressive"
+        ]
+    },
+    {
+        "radical": "agricultur",
+        "radicals": [
+            "agricultur",
+            "agricultural"
+        ]
+    },
+    {
+        "radical": "aid",
+        "radicals": [
+            "aid",
+            "aide"
+        ]
+    },
+    {
+        "radical": "aim",
+        "radicals": [
+            "aim",
+            "aime"
+        ]
+    },
+    {
+        "radical": "airline",
+        "radicals": [
+            "airline",
+            "airliner"
+        ]
+    },
+    {
+        "radical": "ala",
+        "radicals": [
+            "ala",
+            "alam"
+        ]
+    },
+    {
+        "radical": "algeri",
+        "radicals": [
+            "algeri",
+            "algeria",
+            "algerian"
+        ]
+    },
+    {
+        "radical": "algeria",
+        "radicals": [
+            "algeria",
+            "algerian"
+        ]
+    },
+    {
+        "radical": "alt",
+        "radicals": [
+            "alt",
+            "alte"
+        ]
+    },
+    {
+        "radical": "alte",
+        "radicals": [
+            "alte",
+            "alter"
+        ]
+    },
+    {
+        "radical": "alternat",
+        "radicals": [
+            "alternat",
+            "alternate",
+            "alternative"
+        ]
+    },
+    {
+        "radical": "ambitio",
+        "radicals": [
+            "ambitio",
+            "ambition"
+        ]
+    },
+    {
+        "radical": "america",
+        "radicals": [
+            "america",
+            "american"
+        ]
+    },
+    {
+        "radical": "anne",
+        "radicals": [
+            "anne",
+            "annex"
+        ]
+    },
+    {
+        "radical": "annihilat",
+        "radicals": [
+            "annihilat",
+            "annihilate"
+        ]
+    },
+    {
+        "radical": "announce",
+        "radicals": [
+            "announce",
+            "announcement"
+        ]
+    },
+    {
+        "radical": "antagonis",
+        "radicals": [
+            "antagonis",
+            "antagonism",
+            "antagonist"
+        ]
+    },
+    {
+        "radical": "anticipat",
+        "radicals": [
+            "anticipat",
+            "anticipati"
+        ]
+    },
+    {
+        "radical": "anton",
+        "radicals": [
+            "anton",
+            "antoni",
+            "antonio"
+        ]
+    },
+    {
+        "radical": "antoni",
+        "radicals": [
+            "antoni",
+            "antonio"
+        ]
+    },
+    {
+        "radical": "appea",
+        "radicals": [
+            "appeal",
+            "appear"
+        ]
+    },
+    {
+        "radical": "applau",
+        "radicals": [
+            "applau",
+            "applaud"
+        ]
+    },
+    {
+        "radical": "appoint",
+        "radicals": [
+            "appoint",
+            "appointe"
+        ]
+    },
+    {
+        "radical": "apprehensi",
+        "radicals": [
+            "apprehensi",
+            "apprehensive"
+        ]
+    },
+    {
+        "radical": "approach",
+        "radicals": [
+            "approach",
+            "approache"
+        ]
+    },
+    {
+        "radical": "approv",
+        "radicals": [
+            "approv",
+            "approve"
+        ]
+    },
+    {
+        "radical": "arab",
+        "radicals": [
+            "arab",
+            "arabi"
+        ]
+    },
+    {
+        "radical": "arabi",
+        "radicals": [
+            "arabi",
+            "arabia"
+        ]
+    },
+    {
+        "radical": "arbitrat",
+        "radicals": [
+            "arbitrat",
+            "arbitrate"
+        ]
+    },
+    {
+        "radical": "arden",
+        "radicals": [
+            "arden",
+            "ardent"
+        ]
+    },
+    {
+        "radical": "argou",
+        "radicals": [
+            "argou",
+            "argoud"
+        ]
+    },
+    {
+        "radical": "aristocra",
+        "radicals": [
+            "aristocra",
+            "aristocracy",
+            "aristocrat"
+        ]
+    },
+    {
+        "radical": "arm",
+        "radicals": [
+            "arm",
+            "army"
+        ]
+    },
+    {
+        "radical": "artist",
+        "radicals": [
+            "artist",
+            "artistic"
+        ]
+    },
+    {
+        "radical": "ascertain",
+        "radicals": [
+            "ascertain",
+            "ascertaine"
+        ]
+    },
+    {
+        "radical": "asia",
+        "radicals": [
+            "asia",
+            "asian"
+        ]
+    },
+    {
+        "radical": "assassin",
+        "radicals": [
+            "assassin",
+            "assassinat",
+            "assassinate",
+            "assassinati"
+        ]
+    },
+    {
+        "radical": "assassinat",
+        "radicals": [
+            "assassinat",
+            "assassinate",
+            "assassinati"
+        ]
+    },
+    {
+        "radical": "assembl",
+        "radicals": [
+            "assembl",
+            "assemble",
+            "assembly"
+        ]
+    },
+    {
+        "radical": "associat",
+        "radicals": [
+            "associat",
+            "associate",
+            "associati"
+        ]
+    },
+    {
+        "radical": "astronau",
+        "radicals": [
+            "astronau",
+            "astronaut"
+        ]
+    },
+    {
+        "radical": "attack",
+        "radicals": [
+            "attack",
+            "attacke"
+        ]
+    },
+    {
+        "radical": "attend",
+        "radicals": [
+            "attend",
+            "attendan"
+        ]
+    },
+    {
+        "radical": "attract",
+        "radicals": [
+            "attract",
+            "attracti",
+            "attraction"
+        ]
+    },
+    {
+        "radical": "attracti",
+        "radicals": [
+            "attracti",
+            "attraction"
+        ]
+    },
+    {
+        "radical": "australia",
+        "radicals": [
+            "australia",
+            "australian"
+        ]
+    },
+    {
+        "radical": "austria",
+        "radicals": [
+            "austria",
+            "austrian"
+        ]
+    },
+    {
+        "radical": "author",
+        "radicals": [
+            "author",
+            "authorit"
+        ]
+    },
+    {
+        "radical": "automati",
+        "radicals": [
+            "automati",
+            "automatic"
+        ]
+    },
+    {
+        "radical": "baath",
+        "radicals": [
+            "baath",
+            "baathis"
+        ]
+    },
+    {
+        "radical": "baathis",
+        "radicals": [
+            "baathis",
+            "baathist"
+        ]
+    },
+    {
+        "radical": "backbench",
+        "radicals": [
+            "backbench",
+            "backbencher"
+        ]
+    },
+    {
+        "radical": "bad",
+        "radicals": [
+            "bad",
+            "badr"
+        ]
+    },
+    {
+        "radical": "ban",
+        "radicals": [
+            "ban",
+            "band",
+            "bank"
+        ]
+    },
+    {
+        "radical": "band",
+        "radicals": [
+            "band",
+            "banda"
+        ]
+    },
+    {
+        "radical": "bank",
+        "radicals": [
+            "bank",
+            "banke"
+        ]
+    },
+    {
+        "radical": "banke",
+        "radicals": [
+            "banke",
+            "banker"
+        ]
+    },
+    {
+        "radical": "banne",
+        "radicals": [
+            "banne",
+            "banner"
+        ]
+    },
+    {
+        "radical": "bantu",
+        "radicals": [
+            "bantu",
+            "bantus"
+        ]
+    },
+    {
+        "radical": "bantus",
+        "radicals": [
+            "bantus",
+            "bantustan"
+        ]
+    },
+    {
+        "radical": "barricad",
+        "radicals": [
+            "barricad",
+            "barricade"
+        ]
+    },
+    {
+        "radical": "barrie",
+        "radicals": [
+            "barrie",
+            "barrier"
+        ]
+    },
+    {
+        "radical": "bear",
+        "radicals": [
+            "bear",
+            "beard"
+        ]
+    },
+    {
+        "radical": "beat",
+        "radicals": [
+            "beat",
+            "beate"
+        ]
+    },
+    {
+        "radical": "bee",
+        "radicals": [
+            "bee",
+            "beef"
+        ]
+    },
+    {
+        "radical": "belie",
+        "radicals": [
+            "belie",
+            "belief",
+            "believe"
+        ]
+    },
+    {
+        "radical": "believe",
+        "radicals": [
+            "believe",
+            "believer"
+        ]
+    },
+    {
+        "radical": "bell",
+        "radicals": [
+            "bell",
+            "bella"
+        ]
+    },
+    {
+        "radical": "belong",
+        "radicals": [
+            "belong",
+            "belonging"
+        ]
+    },
+    {
+        "radical": "ben",
+        "radicals": [
+            "ben",
+            "benk"
+        ]
+    },
+    {
+        "radical": "benefi",
+        "radicals": [
+            "benefi",
+            "beneficia",
+            "benefit"
+        ]
+    },
+    {
+        "radical": "beneficia",
+        "radicals": [
+            "beneficia",
+            "beneficiar"
+        ]
+    },
+    {
+        "radical": "berlin",
+        "radicals": [
+            "berlin",
+            "berliner"
+        ]
+    },
+    {
+        "radical": "bid",
+        "radicals": [
+            "bid",
+            "bide"
+        ]
+    },
+    {
+        "radical": "bil",
+        "radicals": [
+            "bil",
+            "bill"
+        ]
+    },
+    {
+        "radical": "bit",
+        "radicals": [
+            "bit",
+            "bite"
+        ]
+    },
+    {
+        "radical": "bitte",
+        "radicals": [
+            "bitte",
+            "bitter"
+        ]
+    },
+    {
+        "radical": "bloc",
+        "radicals": [
+            "bloc",
+            "block"
+        ]
+    },
+    {
+        "radical": "blood",
+        "radicals": [
+            "blood",
+            "bloods"
+        ]
+    },
+    {
+        "radical": "boa",
+        "radicals": [
+            "boa",
+            "boar",
+            "boat"
+        ]
+    },
+    {
+        "radical": "boar",
+        "radicals": [
+            "boar",
+            "board"
+        ]
+    },
+    {
+        "radical": "board",
+        "radicals": [
+            "board",
+            "boarde"
+        ]
+    },
+    {
+        "radical": "bomb",
+        "radicals": [
+            "bomb",
+            "bombe"
+        ]
+    },
+    {
+        "radical": "bombe",
+        "radicals": [
+            "bombe",
+            "bomber"
+        ]
+    },
+    {
+        "radical": "bon",
+        "radicals": [
+            "bon",
+            "bond",
+            "bonn"
+        ]
+    },
+    {
+        "radical": "boo",
+        "radicals": [
+            "boo",
+            "book",
+            "boos",
+            "boot"
+        ]
+    },
+    {
+        "radical": "boos",
+        "radicals": [
+            "boos",
+            "boost"
+        ]
+    },
+    {
+        "radical": "boost",
+        "radicals": [
+            "boost",
+            "booste"
+        ]
+    },
+    {
+        "radical": "boot",
+        "radicals": [
+            "boot",
+            "booth"
+        ]
+    },
+    {
+        "radical": "bore",
+        "radicals": [
+            "bore",
+            "bored"
+        ]
+    },
+    {
+        "radical": "born",
+        "radicals": [
+            "born",
+            "borne"
+        ]
+    },
+    {
+        "radical": "borne",
+        "radicals": [
+            "borne",
+            "borneo"
+        ]
+    },
+    {
+        "radical": "bounc",
+        "radicals": [
+            "bounc",
+            "bounce"
+        ]
+    },
+    {
+        "radical": "bra",
+        "radicals": [
+            "bra",
+            "bras"
+        ]
+    },
+    {
+        "radical": "brand",
+        "radicals": [
+            "brand",
+            "brandt"
+        ]
+    },
+    {
+        "radical": "bras",
+        "radicals": [
+            "bras",
+            "brass"
+        ]
+    },
+    {
+        "radical": "breach",
+        "radicals": [
+            "breach",
+            "breache"
+        ]
+    },
+    {
+        "radical": "breat",
+        "radicals": [
+            "breat",
+            "breath",
+            "breathe"
+        ]
+    },
+    {
+        "radical": "breath",
+        "radicals": [
+            "breath",
+            "breathe"
+        ]
+    },
+    {
+        "radical": "bright",
+        "radicals": [
+            "bright",
+            "brighte"
+        ]
+    },
+    {
+        "radical": "brillian",
+        "radicals": [
+            "brillian",
+            "brilliant"
+        ]
+    },
+    {
+        "radical": "britanni",
+        "radicals": [
+            "britanni",
+            "britannia"
+        ]
+    },
+    {
+        "radical": "broad",
+        "radicals": [
+            "broad",
+            "broade",
+            "broaden"
+        ]
+    },
+    {
+        "radical": "broadcast",
+        "radicals": [
+            "broadcast",
+            "broadcaster"
+        ]
+    },
+    {
+        "radical": "broade",
+        "radicals": [
+            "broade",
+            "broaden"
+        ]
+    },
+    {
+        "radical": "broke",
+        "radicals": [
+            "broke",
+            "broker"
+        ]
+    },
+    {
+        "radical": "brook",
+        "radicals": [
+            "brook",
+            "brooke"
+        ]
+    },
+    {
+        "radical": "brothe",
+        "radicals": [
+            "brothe",
+            "brothel",
+            "brother"
+        ]
+    },
+    {
+        "radical": "buckingham",
+        "radicals": [
+            "buckingham",
+            "buckinghamshire"
+        ]
+    },
+    {
+        "radical": "buddhis",
+        "radicals": [
+            "buddhis",
+            "buddhism",
+            "buddhist"
+        ]
+    },
+    {
+        "radical": "budge",
+        "radicals": [
+            "budge",
+            "budget"
+        ]
+    },
+    {
+        "radical": "bulgaria",
+        "radicals": [
+            "bulgaria",
+            "bulgarian"
+        ]
+    },
+    {
+        "radical": "bulldo",
+        "radicals": [
+            "bulldo",
+            "bulldoze"
+        ]
+    },
+    {
+        "radical": "bullet",
+        "radicals": [
+            "bullet",
+            "bulletin"
+        ]
+    },
+    {
+        "radical": "bunch",
+        "radicals": [
+            "bunch",
+            "bunche"
+        ]
+    },
+    {
+        "radical": "bureaucra",
+        "radicals": [
+            "bureaucra",
+            "bureaucrat"
+        ]
+    },
+    {
+        "radical": "bus",
+        "radicals": [
+            "bus",
+            "bush"
+        ]
+    },
+    {
+        "radical": "business",
+        "radicals": [
+            "business",
+            "businessm",
+            "businessman",
+            "businessmen"
+        ]
+    },
+    {
+        "radical": "businessm",
+        "radicals": [
+            "businessm",
+            "businessman",
+            "businessmen"
+        ]
+    },
+    {
+        "radical": "butter",
+        "radicals": [
+            "butter",
+            "butterfl"
+        ]
+    },
+    {
+        "radical": "cabin",
+        "radicals": [
+            "cabin",
+            "cabinet"
+        ]
+    },
+    {
+        "radical": "cambodia",
+        "radicals": [
+            "cambodia",
+            "cambodian"
+        ]
+    },
+    {
+        "radical": "camer",
+        "radicals": [
+            "camera",
+            "camero"
+        ]
+    },
+    {
+        "radical": "camero",
+        "radicals": [
+            "camero",
+            "cameroon"
+        ]
+    },
+    {
+        "radical": "campaign",
+        "radicals": [
+            "campaign",
+            "campaigne"
+        ]
+    },
+    {
+        "radical": "cance",
+        "radicals": [
+            "cance",
+            "cancel"
+        ]
+    },
+    {
+        "radical": "candid",
+        "radicals": [
+            "candid",
+            "candidate"
+        ]
+    },
+    {
+        "radical": "canvas",
+        "radicals": [
+            "canvas",
+            "canvass"
+        ]
+    },
+    {
+        "radical": "capita",
+        "radicals": [
+            "capita",
+            "capital",
+            "capitali",
+            "capitalis"
+        ]
+    },
+    {
+        "radical": "capital",
+        "radicals": [
+            "capital",
+            "capitali",
+            "capitalis",
+            "capitalist",
+            "capitalize"
+        ]
+    },
+    {
+        "radical": "capitali",
+        "radicals": [
+            "capitali",
+            "capitalis",
+            "capitalist",
+            "capitalize"
+        ]
+    },
+    {
+        "radical": "capitalis",
+        "radicals": [
+            "capitalis",
+            "capitalist"
+        ]
+    },
+    {
+        "radical": "capitulat",
+        "radicals": [
+            "capitulat",
+            "capitulation"
+        ]
+    },
+    {
+        "radical": "capsule",
+        "radicals": [
+            "capsule",
+            "capsules"
+        ]
+    },
+    {
+        "radical": "car",
+        "radicals": [
+            "car",
+            "card",
+            "care",
+            "carl"
+        ]
+    },
+    {
+        "radical": "car100",
+        "radicals": [
+            "car1000",
+            "car1001",
+            "car1002",
+            "car1003",
+            "car1004",
+            "car1005"
+        ]
+    },
+    {
+        "radical": "carrie",
+        "radicals": [
+            "carrie",
+            "carrier"
+        ]
+    },
+    {
+        "radical": "cast",
+        "radicals": [
+            "cast",
+            "caste"
+        ]
+    },
+    {
+        "radical": "cautio",
+        "radicals": [
+            "cautio",
+            "caution",
+            "cautious"
+        ]
+    },
+    {
+        "radical": "celebrat",
+        "radicals": [
+            "celebrat",
+            "celebrate",
+            "celebrati",
+            "celebration"
+        ]
+    },
+    {
+        "radical": "celebrati",
+        "radicals": [
+            "celebrati",
+            "celebration"
+        ]
+    },
+    {
+        "radical": "censor",
+        "radicals": [
+            "censor",
+            "censors"
+        ]
+    },
+    {
+        "radical": "central",
+        "radicals": [
+            "central",
+            "centralize"
+        ]
+    },
+    {
+        "radical": "ceremoni",
+        "radicals": [
+            "ceremoni",
+            "ceremonial"
+        ]
+    },
+    {
+        "radical": "chairman",
+        "radicals": [
+            "chairman",
+            "chairmanship"
+        ]
+    },
+    {
+        "radical": "challeng",
+        "radicals": [
+            "challeng",
+            "challenge"
+        ]
+    },
+    {
+        "radical": "champion",
+        "radicals": [
+            "champion",
+            "champions"
+        ]
+    },
+    {
+        "radical": "chan",
+        "radicals": [
+            "chan",
+            "chant"
+        ]
+    },
+    {
+        "radical": "chancellor",
+        "radicals": [
+            "chancellor",
+            "chancellors"
+        ]
+    },
+    {
+        "radical": "character",
+        "radicals": [
+            "character",
+            "characteristic",
+            "characterize"
+        ]
+    },
+    {
+        "radical": "chi",
+        "radicals": [
+            "chi",
+            "chin",
+            "chip"
+        ]
+    },
+    {
+        "radical": "chin",
+        "radicals": [
+            "chin",
+            "china"
+        ]
+    },
+    {
+        "radical": "choos",
+        "radicals": [
+            "choos",
+            "choose"
+        ]
+    },
+    {
+        "radical": "choppe",
+        "radicals": [
+            "choppe",
+            "chopper"
+        ]
+    },
+    {
+        "radical": "christ",
+        "radicals": [
+            "christ",
+            "christian",
+            "christine"
+        ]
+    },
+    {
+        "radical": "chronic",
+        "radicals": [
+            "chronic",
+            "chronicle"
+        ]
+    },
+    {
+        "radical": "circula",
+        "radicals": [
+            "circula",
+            "circulat",
+            "circulate",
+            "circulati"
+        ]
+    },
+    {
+        "radical": "circulat",
+        "radicals": [
+            "circulat",
+            "circulate",
+            "circulati"
+        ]
+    },
+    {
+        "radical": "citizen",
+        "radicals": [
+            "citizen",
+            "citizens"
+        ]
+    },
+    {
+        "radical": "clash",
+        "radicals": [
+            "clash",
+            "clashe"
+        ]
+    },
+    {
+        "radical": "class",
+        "radicals": [
+            "class",
+            "classic"
+        ]
+    },
+    {
+        "radical": "clean",
+        "radicals": [
+            "clean",
+            "cleane",
+            "cleaner"
+        ]
+    },
+    {
+        "radical": "cleane",
+        "radicals": [
+            "cleane",
+            "cleaner"
+        ]
+    },
+    {
+        "radical": "clear",
+        "radicals": [
+            "clear",
+            "cleare"
+        ]
+    },
+    {
+        "radical": "climb",
+        "radicals": [
+            "climb",
+            "climbe"
+        ]
+    },
+    {
+        "radical": "close",
+        "radicals": [
+            "close",
+            "closes",
+            "closet"
+        ]
+    },
+    {
+        "radical": "cloth",
+        "radicals": [
+            "cloth",
+            "clothe"
+        ]
+    },
+    {
+        "radical": "collaborat",
+        "radicals": [
+            "collaborat",
+            "collaborate",
+            "collaboration"
+        ]
+    },
+    {
+        "radical": "collect",
+        "radicals": [
+            "collect",
+            "collecti",
+            "collectiv",
+            "collective",
+            "collectivi"
+        ]
+    },
+    {
+        "radical": "collecti",
+        "radicals": [
+            "collecti",
+            "collectiv",
+            "collective",
+            "collectivi"
+        ]
+    },
+    {
+        "radical": "collectiv",
+        "radicals": [
+            "collectiv",
+            "collective",
+            "collectivi"
+        ]
+    },
+    {
+        "radical": "colomb",
+        "radicals": [
+            "colomb",
+            "colombia"
+        ]
+    },
+    {
+        "radical": "color",
+        "radicals": [
+            "color",
+            "colored"
+        ]
+    },
+    {
+        "radical": "column",
+        "radicals": [
+            "column",
+            "columnist"
+        ]
+    },
+    {
+        "radical": "combin",
+        "radicals": [
+            "combin",
+            "combine"
+        ]
+    },
+    {
+        "radical": "command",
+        "radicals": [
+            "command",
+            "commande",
+            "commander",
+            "commando"
+        ]
+    },
+    {
+        "radical": "commande",
+        "radicals": [
+            "commande",
+            "commander"
+        ]
+    },
+    {
+        "radical": "commen",
+        "radicals": [
+            "commen",
+            "comment"
+        ]
+    },
+    {
+        "radical": "commission",
+        "radicals": [
+            "commission",
+            "commissione"
+        ]
+    },
+    {
+        "radical": "commit",
+        "radicals": [
+            "commit",
+            "committe",
+            "committee"
+        ]
+    },
+    {
+        "radical": "committe",
+        "radicals": [
+            "committe",
+            "committee"
+        ]
+    },
+    {
+        "radical": "commun",
+        "radicals": [
+            "commun",
+            "communal",
+            "commune",
+            "communis",
+            "communism",
+            "communist",
+            "communit"
+        ]
+    },
+    {
+        "radical": "communi",
+        "radicals": [
+            "communis",
+            "communism",
+            "communist",
+            "communit"
+        ]
+    },
+    {
+        "radical": "communis",
+        "radicals": [
+            "communis",
+            "communism",
+            "communist"
+        ]
+    },
+    {
+        "radical": "commute",
+        "radicals": [
+            "commute",
+            "commuter"
+        ]
+    },
+    {
+        "radical": "compensat",
+        "radicals": [
+            "compensat",
+            "compensati"
+        ]
+    },
+    {
+        "radical": "compete",
+        "radicals": [
+            "compete",
+            "competen",
+            "competent"
+        ]
+    },
+    {
+        "radical": "competen",
+        "radicals": [
+            "competen",
+            "competent"
+        ]
+    },
+    {
+        "radical": "complain",
+        "radicals": [
+            "complain",
+            "complaint"
+        ]
+    },
+    {
+        "radical": "comple",
+        "radicals": [
+            "comple",
+            "complete",
+            "completi",
+            "complex"
+        ]
+    },
+    {
+        "radical": "complet",
+        "radicals": [
+            "complete",
+            "completi"
+        ]
+    },
+    {
+        "radical": "complicat",
+        "radicals": [
+            "complicat",
+            "complicati",
+            "complication"
+        ]
+    },
+    {
+        "radical": "complicati",
+        "radicals": [
+            "complicati",
+            "complication"
+        ]
+    },
+    {
+        "radical": "compromis",
+        "radicals": [
+            "compromis",
+            "compromise"
+        ]
+    },
+    {
+        "radical": "comrade",
+        "radicals": [
+            "comrade",
+            "comrades"
+        ]
+    },
+    {
+        "radical": "con",
+        "radicals": [
+            "con",
+            "cong"
+        ]
+    },
+    {
+        "radical": "concentrat",
+        "radicals": [
+            "concentrat",
+            "concentrate"
+        ]
+    },
+    {
+        "radical": "concer",
+        "radicals": [
+            "concer",
+            "concern",
+            "concerned",
+            "concert"
+        ]
+    },
+    {
+        "radical": "concern",
+        "radicals": [
+            "concern",
+            "concerned"
+        ]
+    },
+    {
+        "radical": "conciliat",
+        "radicals": [
+            "conciliat",
+            "conciliate"
+        ]
+    },
+    {
+        "radical": "condem",
+        "radicals": [
+            "condem",
+            "condemn"
+        ]
+    },
+    {
+        "radical": "condition",
+        "radicals": [
+            "condition",
+            "conditioner"
+        ]
+    },
+    {
+        "radical": "conduct",
+        "radicals": [
+            "conduct",
+            "conductor"
+        ]
+    },
+    {
+        "radical": "confessi",
+        "radicals": [
+            "confessi",
+            "confession"
+        ]
+    },
+    {
+        "radical": "confide",
+        "radicals": [
+            "confide",
+            "confiden",
+            "confident"
+        ]
+    },
+    {
+        "radical": "confiden",
+        "radicals": [
+            "confiden",
+            "confident"
+        ]
+    },
+    {
+        "radical": "confiscat",
+        "radicals": [
+            "confiscat",
+            "confiscate"
+        ]
+    },
+    {
+        "radical": "cong",
+        "radicals": [
+            "cong",
+            "congo"
+        ]
+    },
+    {
+        "radical": "congratulat",
+        "radicals": [
+            "congratulat",
+            "congratulation"
+        ]
+    },
+    {
+        "radical": "congres",
+        "radicals": [
+            "congres",
+            "congress"
+        ]
+    },
+    {
+        "radical": "conque",
+        "radicals": [
+            "conque",
+            "conquer",
+            "conquest"
+        ]
+    },
+    {
+        "radical": "consider",
+        "radicals": [
+            "consider",
+            "considerabl"
+        ]
+    },
+    {
+        "radical": "consist",
+        "radicals": [
+            "consist",
+            "consiste",
+            "consisten",
+            "consistent"
+        ]
+    },
+    {
+        "radical": "consiste",
+        "radicals": [
+            "consiste",
+            "consisten",
+            "consistent"
+        ]
+    },
+    {
+        "radical": "consisten",
+        "radicals": [
+            "consisten",
+            "consistent"
+        ]
+    },
+    {
+        "radical": "consolidat",
+        "radicals": [
+            "consolidat",
+            "consolidate"
+        ]
+    },
+    {
+        "radical": "conspir",
+        "radicals": [
+            "conspirac",
+            "conspire"
+        ]
+    },
+    {
+        "radical": "conspira",
+        "radicals": [
+            "conspirac",
+            "conspirator"
+        ]
+    },
+    {
+        "radical": "constan",
+        "radicals": [
+            "constan",
+            "constant",
+            "constantin"
+        ]
+    },
+    {
+        "radical": "constant",
+        "radicals": [
+            "constant",
+            "constantin",
+            "constantine"
+        ]
+    },
+    {
+        "radical": "constantin",
+        "radicals": [
+            "constantin",
+            "constantine"
+        ]
+    },
+    {
+        "radical": "constitu",
+        "radicals": [
+            "constitu",
+            "constituen",
+            "constituenc",
+            "constitut",
+            "constitution"
+        ]
+    },
+    {
+        "radical": "constituen",
+        "radicals": [
+            "constituen",
+            "constituenc"
+        ]
+    },
+    {
+        "radical": "constitut",
+        "radicals": [
+            "constitut",
+            "constitution"
+        ]
+    },
+    {
+        "radical": "construct",
+        "radicals": [
+            "construct",
+            "constructi"
+        ]
+    },
+    {
+        "radical": "consul",
+        "radicals": [
+            "consul",
+            "consula",
+            "consult"
+        ]
+    },
+    {
+        "radical": "consult",
+        "radicals": [
+            "consult",
+            "consultati"
+        ]
+    },
+    {
+        "radical": "consultati",
+        "radicals": [
+            "consultati",
+            "consultation"
+        ]
+    },
+    {
+        "radical": "consume",
+        "radicals": [
+            "consume",
+            "consumer"
+        ]
+    },
+    {
+        "radical": "contempt",
+        "radicals": [
+            "contempt",
+            "contemptuous"
+        ]
+    },
+    {
+        "radical": "conten",
+        "radicals": [
+            "conten",
+            "contend",
+            "contende",
+            "contender",
+            "content"
+        ]
+    },
+    {
+        "radical": "contend",
+        "radicals": [
+            "contend",
+            "contende",
+            "contender"
+        ]
+    },
+    {
+        "radical": "contende",
+        "radicals": [
+            "contende",
+            "contender"
+        ]
+    },
+    {
+        "radical": "continent",
+        "radicals": [
+            "continent",
+            "continental"
+        ]
+    },
+    {
+        "radical": "continu",
+        "radicals": [
+            "continu",
+            "continua",
+            "continual",
+            "continue"
+        ]
+    },
+    {
+        "radical": "continua",
+        "radicals": [
+            "continua",
+            "continual"
+        ]
+    },
+    {
+        "radical": "contribut",
+        "radicals": [
+            "contribut",
+            "contribute",
+            "contributi",
+            "contribution"
+        ]
+    },
+    {
+        "radical": "contributi",
+        "radicals": [
+            "contributi",
+            "contribution"
+        ]
+    },
+    {
+        "radical": "conve",
+        "radicals": [
+            "conven",
+            "conver"
+        ]
+    },
+    {
+        "radical": "conven",
+        "radicals": [
+            "conven",
+            "convene",
+            "convent"
+        ]
+    },
+    {
+        "radical": "convent",
+        "radicals": [
+            "convent",
+            "convention"
+        ]
+    },
+    {
+        "radical": "conver",
+        "radicals": [
+            "conver",
+            "converse",
+            "convert"
+        ]
+    },
+    {
+        "radical": "convict",
+        "radicals": [
+            "convict",
+            "conviction"
+        ]
+    },
+    {
+        "radical": "cook",
+        "radicals": [
+            "cook",
+            "cooke"
+        ]
+    },
+    {
+        "radical": "coope",
+        "radicals": [
+            "coope",
+            "cooper"
+        ]
+    },
+    {
+        "radical": "cooper",
+        "radicals": [
+            "cooper",
+            "cooperat",
+            "cooperati"
+        ]
+    },
+    {
+        "radical": "cooperat",
+        "radicals": [
+            "cooperat",
+            "cooperati"
+        ]
+    },
+    {
+        "radical": "coordinat",
+        "radicals": [
+            "coordinat",
+            "coordinate",
+            "coordinati"
+        ]
+    },
+    {
+        "radical": "cop",
+        "radicals": [
+            "cop",
+            "cope"
+        ]
+    },
+    {
+        "radical": "corp",
+        "radicals": [
+            "corp",
+            "corps"
+        ]
+    },
+    {
+        "radical": "corpora",
+        "radicals": [
+            "corpora",
+            "corporat"
+        ]
+    },
+    {
+        "radical": "corporat",
+        "radicals": [
+            "corporat",
+            "corporation"
+        ]
+    },
+    {
+        "radical": "corps",
+        "radicals": [
+            "corps",
+            "corpse"
+        ]
+    },
+    {
+        "radical": "correct",
+        "radicals": [
+            "correct",
+            "correcti"
+        ]
+    },
+    {
+        "radical": "corresponden",
+        "radicals": [
+            "corresponden",
+            "correspondent"
+        ]
+    },
+    {
+        "radical": "count",
+        "radicals": [
+            "count",
+            "counte",
+            "counter",
+            "country"
+        ]
+    },
+    {
+        "radical": "counte",
+        "radicals": [
+            "counte",
+            "counter"
+        ]
+    },
+    {
+        "radical": "counter",
+        "radicals": [
+            "counter",
+            "counteract"
+        ]
+    },
+    {
+        "radical": "counterbalanc",
+        "radicals": [
+            "counterbalanc",
+            "counterbalance"
+        ]
+    },
+    {
+        "radical": "country",
+        "radicals": [
+            "country",
+            "countrys"
+        ]
+    },
+    {
+        "radical": "court",
+        "radicals": [
+            "court",
+            "courts"
+        ]
+    },
+    {
+        "radical": "crack",
+        "radicals": [
+            "crack",
+            "cracke"
+        ]
+    },
+    {
+        "radical": "craft",
+        "radicals": [
+            "craft",
+            "crafts"
+        ]
+    },
+    {
+        "radical": "credit",
+        "radicals": [
+            "credit",
+            "creditabl"
+        ]
+    },
+    {
+        "radical": "critic",
+        "radicals": [
+            "critic",
+            "critical",
+            "criticism",
+            "criticize"
+        ]
+    },
+    {
+        "radical": "cross",
+        "radicals": [
+            "cross",
+            "crosse"
+        ]
+    },
+    {
+        "radical": "crow",
+        "radicals": [
+            "crow",
+            "crowd",
+            "crown"
+        ]
+    },
+    {
+        "radical": "crusade",
+        "radicals": [
+            "crusade",
+            "crusader"
+        ]
+    },
+    {
+        "radical": "cuba",
+        "radicals": [
+            "cuba",
+            "cuban"
+        ]
+    },
+    {
+        "radical": "cultivat",
+        "radicals": [
+            "cultivat",
+            "cultivate",
+            "cultivati"
+        ]
+    },
+    {
+        "radical": "cultur",
+        "radicals": [
+            "cultur",
+            "culture"
+        ]
+    },
+    {
+        "radical": "curtai",
+        "radicals": [
+            "curtai",
+            "curtail",
+            "curtain"
+        ]
+    },
+    {
+        "radical": "custom",
+        "radicals": [
+            "custom",
+            "customer"
+        ]
+    },
+    {
+        "radical": "czechoslovak",
+        "radicals": [
+            "czechoslovak",
+            "czechoslovakia"
+        ]
+    },
+    {
+        "radical": "dai",
+        "radicals": [
+            "dai",
+            "dais"
+        ]
+    },
+    {
+        "radical": "danger",
+        "radicals": [
+            "danger",
+            "dangerous"
+        ]
+    },
+    {
+        "radical": "defect",
+        "radicals": [
+            "defect",
+            "defection",
+            "defector"
+        ]
+    },
+    {
+        "radical": "defend",
+        "radicals": [
+            "defend",
+            "defendant",
+            "defende",
+            "defender"
+        ]
+    },
+    {
+        "radical": "defende",
+        "radicals": [
+            "defende",
+            "defender"
+        ]
+    },
+    {
+        "radical": "defian",
+        "radicals": [
+            "defian",
+            "defiant"
+        ]
+    },
+    {
+        "radical": "deliberat",
+        "radicals": [
+            "deliberat",
+            "deliberate",
+            "deliberati",
+            "deliberation"
+        ]
+    },
+    {
+        "radical": "deliberati",
+        "radicals": [
+            "deliberati",
+            "deliberation"
+        ]
+    },
+    {
+        "radical": "delight",
+        "radicals": [
+            "delight",
+            "delighted"
+        ]
+    },
+    {
+        "radical": "deliver",
+        "radicals": [
+            "deliver",
+            "deliveri"
+        ]
+    },
+    {
+        "radical": "democra",
+        "radicals": [
+            "democra",
+            "democracy",
+            "democrat",
+            "democratic"
+        ]
+    },
+    {
+        "radical": "democrat",
+        "radicals": [
+            "democrat",
+            "democratic"
+        ]
+    },
+    {
+        "radical": "demonstrat",
+        "radicals": [
+            "demonstrat",
+            "demonstrate",
+            "demonstrati",
+            "demonstration"
+        ]
+    },
+    {
+        "radical": "demonstrati",
+        "radicals": [
+            "demonstrati",
+            "demonstration"
+        ]
+    },
+    {
+        "radical": "depend",
+        "radicals": [
+            "depend",
+            "depende",
+            "dependen",
+            "dependenc"
+        ]
+    },
+    {
+        "radical": "depende",
+        "radicals": [
+            "depende",
+            "dependen",
+            "dependenc"
+        ]
+    },
+    {
+        "radical": "dependen",
+        "radicals": [
+            "dependen",
+            "dependenc"
+        ]
+    },
+    {
+        "radical": "depress",
+        "radicals": [
+            "depress",
+            "depresse"
+        ]
+    },
+    {
+        "radical": "des",
+        "radicals": [
+            "des",
+            "desk"
+        ]
+    },
+    {
+        "radical": "descen",
+        "radicals": [
+            "descen",
+            "descend"
+        ]
+    },
+    {
+        "radical": "design",
+        "radicals": [
+            "design",
+            "designat",
+            "designate",
+            "designe"
+        ]
+    },
+    {
+        "radical": "designat",
+        "radicals": [
+            "designat",
+            "designate"
+        ]
+    },
+    {
+        "radical": "desperat",
+        "radicals": [
+            "desperat",
+            "desperate"
+        ]
+    },
+    {
+        "radical": "destroy",
+        "radicals": [
+            "destroy",
+            "destroye"
+        ]
+    },
+    {
+        "radical": "detai",
+        "radicals": [
+            "detai",
+            "detail",
+            "detain",
+            "detaine"
+        ]
+    },
+    {
+        "radical": "detain",
+        "radicals": [
+            "detain",
+            "detaine"
+        ]
+    },
+    {
+        "radical": "detect",
+        "radicals": [
+            "detect",
+            "detective",
+            "detector"
+        ]
+    },
+    {
+        "radical": "determin",
+        "radicals": [
+            "determin",
+            "determine",
+            "determined"
+        ]
+    },
+    {
+        "radical": "determine",
+        "radicals": [
+            "determine",
+            "determined"
+        ]
+    },
+    {
+        "radical": "develop",
+        "radicals": [
+            "develop",
+            "develope"
+        ]
+    },
+    {
+        "radical": "devote",
+        "radicals": [
+            "devote",
+            "devoted"
+        ]
+    },
+    {
+        "radical": "dictat",
+        "radicals": [
+            "dictat",
+            "dictate",
+            "dictator",
+            "dictators"
+        ]
+    },
+    {
+        "radical": "dictator",
+        "radicals": [
+            "dictator",
+            "dictators",
+            "dictatorship"
+        ]
+    },
+    {
+        "radical": "dictators",
+        "radicals": [
+            "dictators",
+            "dictatorship"
+        ]
+    },
+    {
+        "radical": "die",
+        "radicals": [
+            "die",
+            "diem"
+        ]
+    },
+    {
+        "radical": "dignit",
+        "radicals": [
+            "dignit",
+            "dignitar"
+        ]
+    },
+    {
+        "radical": "diligen",
+        "radicals": [
+            "diligen",
+            "diligent"
+        ]
+    },
+    {
+        "radical": "diploma",
+        "radicals": [
+            "diploma",
+            "diplomat",
+            "diplomati",
+            "diplomatic"
+        ]
+    },
+    {
+        "radical": "diplomat",
+        "radicals": [
+            "diplomat",
+            "diplomati",
+            "diplomatic"
+        ]
+    },
+    {
+        "radical": "diplomati",
+        "radicals": [
+            "diplomati",
+            "diplomatic"
+        ]
+    },
+    {
+        "radical": "direct",
+        "radicals": [
+            "direct",
+            "direction",
+            "director"
+        ]
+    },
+    {
+        "radical": "disagree",
+        "radicals": [
+            "disagree",
+            "disagreement"
+        ]
+    },
+    {
+        "radical": "disappoint",
+        "radicals": [
+            "disappoint",
+            "disappointment"
+        ]
+    },
+    {
+        "radical": "disapprov",
+        "radicals": [
+            "disapprov",
+            "disapprove"
+        ]
+    },
+    {
+        "radical": "discourag",
+        "radicals": [
+            "discourag",
+            "discourage"
+        ]
+    },
+    {
+        "radical": "discriminat",
+        "radicals": [
+            "discriminat",
+            "discriminate",
+            "discriminati"
+        ]
+    },
+    {
+        "radical": "discussi",
+        "radicals": [
+            "discussi",
+            "discussion"
+        ]
+    },
+    {
+        "radical": "disma",
+        "radicals": [
+            "disma",
+            "dismal",
+            "dismay"
+        ]
+    },
+    {
+        "radical": "dismantl",
+        "radicals": [
+            "dismantl",
+            "dismantle"
+        ]
+    },
+    {
+        "radical": "dispatch",
+        "radicals": [
+            "dispatch",
+            "dispatche"
+        ]
+    },
+    {
+        "radical": "distill",
+        "radicals": [
+            "distill",
+            "distiller"
+        ]
+    },
+    {
+        "radical": "distinct",
+        "radicals": [
+            "distinct",
+            "distincti",
+            "distinctive"
+        ]
+    },
+    {
+        "radical": "distincti",
+        "radicals": [
+            "distincti",
+            "distinctive"
+        ]
+    },
+    {
+        "radical": "distribut",
+        "radicals": [
+            "distribut",
+            "distribute",
+            "distributi"
+        ]
+    },
+    {
+        "radical": "dive",
+        "radicals": [
+            "dive",
+            "diver"
+        ]
+    },
+    {
+        "radical": "diver",
+        "radicals": [
+            "diver",
+            "diverge",
+            "divers",
+            "divert"
+        ]
+    },
+    {
+        "radical": "diverge",
+        "radicals": [
+            "diverge",
+            "divergen"
+        ]
+    },
+    {
+        "radical": "domina",
+        "radicals": [
+            "dominan",
+            "dominate",
+            "dominati"
+        ]
+    },
+    {
+        "radical": "dominat",
+        "radicals": [
+            "dominate",
+            "dominati"
+        ]
+    },
+    {
+        "radical": "doubl",
+        "radicals": [
+            "doubl",
+            "double",
+            "doubled"
+        ]
+    },
+    {
+        "radical": "double",
+        "radicals": [
+            "double",
+            "doubled"
+        ]
+    },
+    {
+        "radical": "dramati",
+        "radicals": [
+            "dramati",
+            "dramatic",
+            "dramatize"
+        ]
+    },
+    {
+        "radical": "dress",
+        "radicals": [
+            "dress",
+            "dresse"
+        ]
+    },
+    {
+        "radical": "drive",
+        "radicals": [
+            "drive",
+            "driver"
+        ]
+    },
+    {
+        "radical": "duc",
+        "radicals": [
+            "duc",
+            "duce"
+        ]
+    },
+    {
+        "radical": "due",
+        "radicals": [
+            "due",
+            "duel"
+        ]
+    },
+    {
+        "radical": "duplicat",
+        "radicals": [
+            "duplicat",
+            "duplicate"
+        ]
+    },
+    {
+        "radical": "dynami",
+        "radicals": [
+            "dynami",
+            "dynamite"
+        ]
+    },
+    {
+        "radical": "ear",
+        "radicals": [
+            "ear",
+            "earl",
+            "earn"
+        ]
+    },
+    {
+        "radical": "econom",
+        "radicals": [
+            "econom",
+            "economi",
+            "economic",
+            "economist",
+            "economy"
+        ]
+    },
+    {
+        "radical": "economi",
+        "radicals": [
+            "economi",
+            "economic",
+            "economist"
+        ]
+    },
+    {
+        "radical": "editor",
+        "radicals": [
+            "editor",
+            "editorial"
+        ]
+    },
+    {
+        "radical": "educat",
+        "radicals": [
+            "educat",
+            "educate",
+            "education",
+            "educator"
+        ]
+    },
+    {
+        "radical": "effect",
+        "radicals": [
+            "effect",
+            "effective"
+        ]
+    },
+    {
+        "radical": "efficien",
+        "radicals": [
+            "efficien",
+            "efficient"
+        ]
+    },
+    {
+        "radical": "elect",
+        "radicals": [
+            "elect",
+            "elector"
+        ]
+    },
+    {
+        "radical": "elector",
+        "radicals": [
+            "elector",
+            "electora"
+        ]
+    },
+    {
+        "radical": "electric",
+        "radicals": [
+            "electric",
+            "electrici"
+        ]
+    },
+    {
+        "radical": "elepha",
+        "radicals": [
+            "elepha",
+            "elephant"
+        ]
+    },
+    {
+        "radical": "eliminat",
+        "radicals": [
+            "eliminat",
+            "eliminate",
+            "eliminati"
+        ]
+    },
+    {
+        "radical": "elisabeth",
+        "radicals": [
+            "elisabeth",
+            "elisabethville"
+        ]
+    },
+    {
+        "radical": "eloquen",
+        "radicals": [
+            "eloquen",
+            "eloquent"
+        ]
+    },
+    {
+        "radical": "embarrass",
+        "radicals": [
+            "embarrass",
+            "embarrassing"
+        ]
+    },
+    {
+        "radical": "emerge",
+        "radicals": [
+            "emerge",
+            "emergen",
+            "emergenc"
+        ]
+    },
+    {
+        "radical": "emergen",
+        "radicals": [
+            "emergen",
+            "emergenc"
+        ]
+    },
+    {
+        "radical": "emotion",
+        "radicals": [
+            "emotion",
+            "emotional"
+        ]
+    },
+    {
+        "radical": "emphasi",
+        "radicals": [
+            "emphasi",
+            "emphasiz",
+            "emphasize"
+        ]
+    },
+    {
+        "radical": "emphasiz",
+        "radicals": [
+            "emphasiz",
+            "emphasize"
+        ]
+    },
+    {
+        "radical": "employ",
+        "radicals": [
+            "employ",
+            "employe",
+            "employee"
+        ]
+    },
+    {
+        "radical": "employe",
+        "radicals": [
+            "employe",
+            "employee"
+        ]
+    },
+    {
+        "radical": "encourag",
+        "radicals": [
+            "encourag",
+            "encourage"
+        ]
+    },
+    {
+        "radical": "end100",
+        "radicals": [
+            "end1000",
+            "end1001"
+        ]
+    },
+    {
+        "radical": "engine",
+        "radicals": [
+            "engine",
+            "engineer"
+        ]
+    },
+    {
+        "radical": "english",
+        "radicals": [
+            "english",
+            "englishm"
+        ]
+    },
+    {
+        "radical": "enterpris",
+        "radicals": [
+            "enterpris",
+            "enterprise"
+        ]
+    },
+    {
+        "radical": "enthusias",
+        "radicals": [
+            "enthusias",
+            "enthusiastic"
+        ]
+    },
+    {
+        "radical": "ethiopia",
+        "radicals": [
+            "ethiopia",
+            "ethiopian"
+        ]
+    },
+    {
+        "radical": "europ",
+        "radicals": [
+            "europ",
+            "europe"
+        ]
+    },
+    {
+        "radical": "europe",
+        "radicals": [
+            "europe",
+            "european"
+        ]
+    },
+    {
+        "radical": "eviden",
+        "radicals": [
+            "eviden",
+            "evident"
+        ]
+    },
+    {
+        "radical": "exception",
+        "radicals": [
+            "exception",
+            "exceptional"
+        ]
+    },
+    {
+        "radical": "excess",
+        "radicals": [
+            "excess",
+            "excessive"
+        ]
+    },
+    {
+        "radical": "exhibit",
+        "radicals": [
+            "exhibit",
+            "exhibiti"
+        ]
+    },
+    {
+        "radical": "export",
+        "radicals": [
+            "export",
+            "exporte"
+        ]
+    },
+    {
+        "radical": "express",
+        "radicals": [
+            "express",
+            "expressi",
+            "expression"
+        ]
+    },
+    {
+        "radical": "expressi",
+        "radicals": [
+            "expressi",
+            "expression"
+        ]
+    },
+    {
+        "radical": "exten",
+        "radicals": [
+            "exten",
+            "extend"
+        ]
+    },
+    {
+        "radical": "extra",
+        "radicals": [
+            "extra",
+            "extract"
+        ]
+    },
+    {
+        "radical": "fact",
+        "radicals": [
+            "fact",
+            "facto"
+        ]
+    },
+    {
+        "radical": "facto",
+        "radicals": [
+            "facto",
+            "factor"
+        ]
+    },
+    {
+        "radical": "fascinat",
+        "radicals": [
+            "fascinat",
+            "fascinate",
+            "fascinati"
+        ]
+    },
+    {
+        "radical": "fascis",
+        "radicals": [
+            "fascis",
+            "fascist"
+        ]
+    },
+    {
+        "radical": "fat",
+        "radicals": [
+            "fat",
+            "fate"
+        ]
+    },
+    {
+        "radical": "fee",
+        "radicals": [
+            "fee",
+            "feed",
+            "feel"
+        ]
+    },
+    {
+        "radical": "fellow",
+        "radicals": [
+            "fellow",
+            "fellows"
+        ]
+    },
+    {
+        "radical": "festiv",
+        "radicals": [
+            "festiv",
+            "festival"
+        ]
+    },
+    {
+        "radical": "fight",
+        "radicals": [
+            "fight",
+            "fighter"
+        ]
+    },
+    {
+        "radical": "figur",
+        "radicals": [
+            "figur",
+            "figure"
+        ]
+    },
+    {
+        "radical": "fine",
+        "radicals": [
+            "fine",
+            "finer",
+            "fines"
+        ]
+    },
+    {
+        "radical": "fir",
+        "radicals": [
+            "fir",
+            "fire",
+            "firm"
+        ]
+    },
+    {
+        "radical": "flower",
+        "radicals": [
+            "flower",
+            "flowerpot"
+        ]
+    },
+    {
+        "radical": "focus",
+        "radicals": [
+            "focus",
+            "focuse"
+        ]
+    },
+    {
+        "radical": "follow",
+        "radicals": [
+            "follow",
+            "follower"
+        ]
+    },
+    {
+        "radical": "foreign",
+        "radicals": [
+            "foreign",
+            "foreigner"
+        ]
+    },
+    {
+        "radical": "forest",
+        "radicals": [
+            "forest",
+            "forestall",
+            "foreste"
+        ]
+    },
+    {
+        "radical": "forgive",
+        "radicals": [
+            "forgive",
+            "forgiven"
+        ]
+    },
+    {
+        "radical": "forgo",
+        "radicals": [
+            "forgo",
+            "forgot"
+        ]
+    },
+    {
+        "radical": "form",
+        "radicals": [
+            "form",
+            "forma"
+        ]
+    },
+    {
+        "radical": "forma",
+        "radicals": [
+            "forma",
+            "formal",
+            "format"
+        ]
+    },
+    {
+        "radical": "format",
+        "radicals": [
+            "format",
+            "formation"
+        ]
+    },
+    {
+        "radical": "found",
+        "radicals": [
+            "found",
+            "founde",
+            "founder"
+        ]
+    },
+    {
+        "radical": "founde",
+        "radicals": [
+            "founde",
+            "founder"
+        ]
+    },
+    {
+        "radical": "fra",
+        "radicals": [
+            "fra",
+            "frau"
+        ]
+    },
+    {
+        "radical": "franc",
+        "radicals": [
+            "franc",
+            "franca",
+            "france",
+            "frances",
+            "francis",
+            "franco"
+        ]
+    },
+    {
+        "radical": "franca",
+        "radicals": [
+            "franca",
+            "francais"
+        ]
+    },
+    {
+        "radical": "france",
+        "radicals": [
+            "france",
+            "frances"
+        ]
+    },
+    {
+        "radical": "frank",
+        "radicals": [
+            "frank",
+            "frankl"
+        ]
+    },
+    {
+        "radical": "free",
+        "radicals": [
+            "free",
+            "freed"
+        ]
+    },
+    {
+        "radical": "freed",
+        "radicals": [
+            "freed",
+            "freedom"
+        ]
+    },
+    {
+        "radical": "french",
+        "radicals": [
+            "french",
+            "frenchman"
+        ]
+    },
+    {
+        "radical": "frequen",
+        "radicals": [
+            "frequen",
+            "frequent"
+        ]
+    },
+    {
+        "radical": "friend",
+        "radicals": [
+            "friend",
+            "friendlie",
+            "friends"
+        ]
+    },
+    {
+        "radical": "frustrat",
+        "radicals": [
+            "frustrat",
+            "frustrate",
+            "frustrati",
+            "frustration"
+        ]
+    },
+    {
+        "radical": "frustrati",
+        "radicals": [
+            "frustrati",
+            "frustration"
+        ]
+    },
+    {
+        "radical": "fun",
+        "radicals": [
+            "fun",
+            "fund"
+        ]
+    },
+    {
+        "radical": "function",
+        "radicals": [
+            "function",
+            "functionar"
+        ]
+    },
+    {
+        "radical": "gain",
+        "radicals": [
+            "gain",
+            "gains"
+        ]
+    },
+    {
+        "radical": "gather",
+        "radicals": [
+            "gather",
+            "gathering"
+        ]
+    },
+    {
+        "radical": "gaullis",
+        "radicals": [
+            "gaullis",
+            "gaullism",
+            "gaullist"
+        ]
+    },
+    {
+        "radical": "genera",
+        "radicals": [
+            "genera",
+            "general",
+            "generate"
+        ]
+    },
+    {
+        "radical": "gentl",
+        "radicals": [
+            "gentl",
+            "gentle"
+        ]
+    },
+    {
+        "radical": "gentle",
+        "radicals": [
+            "gentle",
+            "gentlemen"
+        ]
+    },
+    {
+        "radical": "georg",
+        "radicals": [
+            "georg",
+            "george",
+            "georgia"
+        ]
+    },
+    {
+        "radical": "gerhard",
+        "radicals": [
+            "gerhard",
+            "gerhardsen"
+        ]
+    },
+    {
+        "radical": "german",
+        "radicals": [
+            "german",
+            "germany"
+        ]
+    },
+    {
+        "radical": "goa",
+        "radicals": [
+            "goa",
+            "goal"
+        ]
+    },
+    {
+        "radical": "govern",
+        "radicals": [
+            "govern",
+            "governor"
+        ]
+    },
+    {
+        "radical": "gradua",
+        "radicals": [
+            "gradua",
+            "gradual",
+            "graduate",
+            "graduati"
+        ]
+    },
+    {
+        "radical": "graduat",
+        "radicals": [
+            "graduate",
+            "graduati"
+        ]
+    },
+    {
+        "radical": "grand",
+        "radicals": [
+            "grand",
+            "grande",
+            "grandes"
+        ]
+    },
+    {
+        "radical": "grande",
+        "radicals": [
+            "grande",
+            "grandes"
+        ]
+    },
+    {
+        "radical": "grave",
+        "radicals": [
+            "grave",
+            "gravel",
+            "graves"
+        ]
+    },
+    {
+        "radical": "great",
+        "radicals": [
+            "great",
+            "greate"
+        ]
+    },
+    {
+        "radical": "grip",
+        "radicals": [
+            "grip",
+            "gripe"
+        ]
+    },
+    {
+        "radical": "guard",
+        "radicals": [
+            "guard",
+            "guards"
+        ]
+    },
+    {
+        "radical": "guess",
+        "radicals": [
+            "guess",
+            "guesse"
+        ]
+    },
+    {
+        "radical": "gunne",
+        "radicals": [
+            "gunne",
+            "gunner"
+        ]
+    },
+    {
+        "radical": "hail",
+        "radicals": [
+            "hail",
+            "haile"
+        ]
+    },
+    {
+        "radical": "han",
+        "radicals": [
+            "han",
+            "hand",
+            "hang"
+        ]
+    },
+    {
+        "radical": "hand",
+        "radicals": [
+            "hand",
+            "hande"
+        ]
+    },
+    {
+        "radical": "har",
+        "radicals": [
+            "har",
+            "hard",
+            "hare",
+            "hari"
+        ]
+    },
+    {
+        "radical": "hat",
+        "radicals": [
+            "hat",
+            "hate"
+        ]
+    },
+    {
+        "radical": "hawk",
+        "radicals": [
+            "hawk",
+            "hawke"
+        ]
+    },
+    {
+        "radical": "hear",
+        "radicals": [
+            "hear",
+            "heart"
+        ]
+    },
+    {
+        "radical": "heat",
+        "radicals": [
+            "heat",
+            "heath"
+        ]
+    },
+    {
+        "radical": "heave",
+        "radicals": [
+            "heave",
+            "heaven"
+        ]
+    },
+    {
+        "radical": "hee",
+        "radicals": [
+            "hee",
+            "heel"
+        ]
+    },
+    {
+        "radical": "hideou",
+        "radicals": [
+            "hideou",
+            "hideout"
+        ]
+    },
+    {
+        "radical": "histor",
+        "radicals": [
+            "histor",
+            "histori",
+            "historian",
+            "historic",
+            "history"
+        ]
+    },
+    {
+        "radical": "histori",
+        "radicals": [
+            "histori",
+            "historian",
+            "historic",
+            "historical"
+        ]
+    },
+    {
+        "radical": "historic",
+        "radicals": [
+            "historic",
+            "historical"
+        ]
+    },
+    {
+        "radical": "hop",
+        "radicals": [
+            "hop",
+            "hope"
+        ]
+    },
+    {
+        "radical": "hos",
+        "radicals": [
+            "hos",
+            "host"
+        ]
+    },
+    {
+        "radical": "household",
+        "radicals": [
+            "household",
+            "householder"
+        ]
+    },
+    {
+        "radical": "hue",
+        "radicals": [
+            "hue",
+            "huey"
+        ]
+    },
+    {
+        "radical": "humiliat",
+        "radicals": [
+            "humiliat",
+            "humiliate",
+            "humiliati",
+            "humiliation"
+        ]
+    },
+    {
+        "radical": "humiliati",
+        "radicals": [
+            "humiliati",
+            "humiliation"
+        ]
+    },
+    {
+        "radical": "hunte",
+        "radicals": [
+            "hunte",
+            "hunter"
+        ]
+    },
+    {
+        "radical": "idea",
+        "radicals": [
+            "idea",
+            "ideal"
+        ]
+    },
+    {
+        "radical": "ideal",
+        "radicals": [
+            "ideal",
+            "idealis"
+        ]
+    },
+    {
+        "radical": "idealis",
+        "radicals": [
+            "idealis",
+            "idealist"
+        ]
+    },
+    {
+        "radical": "illustrat",
+        "radicals": [
+            "illustrat",
+            "illustrate"
+        ]
+    },
+    {
+        "radical": "impatien",
+        "radicals": [
+            "impatien",
+            "impatient"
+        ]
+    },
+    {
+        "radical": "imperi",
+        "radicals": [
+            "imperi",
+            "imperial",
+            "imperil"
+        ]
+    },
+    {
+        "radical": "imperial",
+        "radicals": [
+            "imperial",
+            "imperialis",
+            "imperialist"
+        ]
+    },
+    {
+        "radical": "imperialis",
+        "radicals": [
+            "imperialis",
+            "imperialist"
+        ]
+    },
+    {
+        "radical": "implicat",
+        "radicals": [
+            "implicat",
+            "implicate",
+            "implication"
+        ]
+    },
+    {
+        "radical": "import",
+        "radicals": [
+            "import",
+            "importan"
+        ]
+    },
+    {
+        "radical": "impressi",
+        "radicals": [
+            "impressi",
+            "impression",
+            "impressive"
+        ]
+    },
+    {
+        "radical": "inciden",
+        "radicals": [
+            "inciden",
+            "incident"
+        ]
+    },
+    {
+        "radical": "independen",
+        "radicals": [
+            "independen",
+            "independent"
+        ]
+    },
+    {
+        "radical": "india",
+        "radicals": [
+            "india",
+            "indian"
+        ]
+    },
+    {
+        "radical": "indicati",
+        "radicals": [
+            "indicati",
+            "indication"
+        ]
+    },
+    {
+        "radical": "individual",
+        "radicals": [
+            "individual",
+            "individuali",
+            "individualis"
+        ]
+    },
+    {
+        "radical": "individuali",
+        "radicals": [
+            "individuali",
+            "individualis"
+        ]
+    },
+    {
+        "radical": "indoctrinat",
+        "radicals": [
+            "indoctrinat",
+            "indoctrinati"
+        ]
+    },
+    {
+        "radical": "indonesia",
+        "radicals": [
+            "indonesia",
+            "indonesian"
+        ]
+    },
+    {
+        "radical": "indulge",
+        "radicals": [
+            "indulge",
+            "indulgen"
+        ]
+    },
+    {
+        "radical": "industri",
+        "radicals": [
+            "industri",
+            "industrial",
+            "industriali",
+            "industrializ"
+        ]
+    },
+    {
+        "radical": "industrial",
+        "radicals": [
+            "industrial",
+            "industriali",
+            "industrialist",
+            "industrializ",
+            "industrialize"
+        ]
+    },
+    {
+        "radical": "industriali",
+        "radicals": [
+            "industriali",
+            "industrialist",
+            "industrializ",
+            "industrialize"
+        ]
+    },
+    {
+        "radical": "industrializ",
+        "radicals": [
+            "industrializ",
+            "industrialize"
+        ]
+    },
+    {
+        "radical": "infant",
+        "radicals": [
+            "infant",
+            "infantry",
+            "infantrym"
+        ]
+    },
+    {
+        "radical": "infantry",
+        "radicals": [
+            "infantry",
+            "infantrym",
+            "infantryman"
+        ]
+    },
+    {
+        "radical": "infantrym",
+        "radicals": [
+            "infantrym",
+            "infantryman"
+        ]
+    },
+    {
+        "radical": "infiltrat",
+        "radicals": [
+            "infiltrat",
+            "infiltrate"
+        ]
+    },
+    {
+        "radical": "inform",
+        "radicals": [
+            "inform",
+            "informal",
+            "informe"
+        ]
+    },
+    {
+        "radical": "infuriat",
+        "radicals": [
+            "infuriat",
+            "infuriate"
+        ]
+    },
+    {
+        "radical": "initia",
+        "radicals": [
+            "initial",
+            "initiati"
+        ]
+    },
+    {
+        "radical": "inside",
+        "radicals": [
+            "inside",
+            "insider"
+        ]
+    },
+    {
+        "radical": "insist",
+        "radicals": [
+            "insist",
+            "insiste",
+            "insisten"
+        ]
+    },
+    {
+        "radical": "insiste",
+        "radicals": [
+            "insiste",
+            "insisten"
+        ]
+    },
+    {
+        "radical": "inspect",
+        "radicals": [
+            "inspect",
+            "inspecti",
+            "inspection",
+            "inspector"
+        ]
+    },
+    {
+        "radical": "inspecti",
+        "radicals": [
+            "inspecti",
+            "inspection"
+        ]
+    },
+    {
+        "radical": "instan",
+        "radicals": [
+            "instan",
+            "instant"
+        ]
+    },
+    {
+        "radical": "institut",
+        "radicals": [
+            "institut",
+            "institute",
+            "institution"
+        ]
+    },
+    {
+        "radical": "instructi",
+        "radicals": [
+            "instructi",
+            "instruction"
+        ]
+    },
+    {
+        "radical": "integrat",
+        "radicals": [
+            "integrat",
+            "integrate",
+            "integration"
+        ]
+    },
+    {
+        "radical": "intellect",
+        "radicals": [
+            "intellect",
+            "intellectual"
+        ]
+    },
+    {
+        "radical": "inten",
+        "radicals": [
+            "inten",
+            "intend",
+            "intense",
+            "intent"
+        ]
+    },
+    {
+        "radical": "intens",
+        "radicals": [
+            "intense",
+            "intensif"
+        ]
+    },
+    {
+        "radical": "intent",
+        "radicals": [
+            "intent",
+            "intention"
+        ]
+    },
+    {
+        "radical": "international",
+        "radicals": [
+            "international",
+            "internationali"
+        ]
+    },
+    {
+        "radical": "interrogat",
+        "radicals": [
+            "interrogat",
+            "interrogate",
+            "interrogati"
+        ]
+    },
+    {
+        "radical": "interrupt",
+        "radicals": [
+            "interrupt",
+            "interrupte"
+        ]
+    },
+    {
+        "radical": "interven",
+        "radicals": [
+            "interven",
+            "intervene"
+        ]
+    },
+    {
+        "radical": "interview",
+        "radicals": [
+            "interview",
+            "interviewe"
+        ]
+    },
+    {
+        "radical": "introduc",
+        "radicals": [
+            "introduc",
+            "introduce",
+            "introduction"
+        ]
+    },
+    {
+        "radical": "invest",
+        "radicals": [
+            "invest",
+            "investor"
+        ]
+    },
+    {
+        "radical": "investigat",
+        "radicals": [
+            "investigat",
+            "investigate",
+            "investigati",
+            "investigation"
+        ]
+    },
+    {
+        "radical": "investigati",
+        "radicals": [
+            "investigati",
+            "investigation"
+        ]
+    },
+    {
+        "radical": "iraq",
+        "radicals": [
+            "iraq",
+            "iraqi"
+        ]
+    },
+    {
+        "radical": "irrigat",
+        "radicals": [
+            "irrigate",
+            "irrigati"
+        ]
+    },
+    {
+        "radical": "israel",
+        "radicals": [
+            "israel",
+            "israeli"
+        ]
+    },
+    {
+        "radical": "jacob",
+        "radicals": [
+            "jacob",
+            "jacobs"
+        ]
+    },
+    {
+        "radical": "jan",
+        "radicals": [
+            "jan",
+            "jane"
+        ]
+    },
+    {
+        "radical": "johannes",
+        "radicals": [
+            "johannes",
+            "johannesburg"
+        ]
+    },
+    {
+        "radical": "john",
+        "radicals": [
+            "john",
+            "johns"
+        ]
+    },
+    {
+        "radical": "join",
+        "radicals": [
+            "join",
+            "joint"
+        ]
+    },
+    {
+        "radical": "jordan",
+        "radicals": [
+            "jordan",
+            "jordanian"
+        ]
+    },
+    {
+        "radical": "journal",
+        "radicals": [
+            "journal",
+            "journalist"
+        ]
+    },
+    {
+        "radical": "jubilan",
+        "radicals": [
+            "jubilan",
+            "jubilant"
+        ]
+    },
+    {
+        "radical": "jump",
+        "radicals": [
+            "jump",
+            "jumpe"
+        ]
+    },
+    {
+        "radical": "junk",
+        "radicals": [
+            "junk",
+            "junke"
+        ]
+    },
+    {
+        "radical": "junke",
+        "radicals": [
+            "junke",
+            "junker"
+        ]
+    },
+    {
+        "radical": "kazakh",
+        "radicals": [
+            "kazakh",
+            "kazakhs"
+        ]
+    },
+    {
+        "radical": "keele",
+        "radicals": [
+            "keele",
+            "keeler"
+        ]
+    },
+    {
+        "radical": "kiangs",
+        "radicals": [
+            "kiangs",
+            "kiangsi"
+        ]
+    },
+    {
+        "radical": "kill",
+        "radicals": [
+            "kill",
+            "kille"
+        ]
+    },
+    {
+        "radical": "kille",
+        "radicals": [
+            "kille",
+            "killer"
+        ]
+    },
+    {
+        "radical": "kin",
+        "radicals": [
+            "kin",
+            "kind",
+            "king"
+        ]
+    },
+    {
+        "radical": "kolkhoz",
+        "radicals": [
+            "kolkhoz",
+            "kolkhoznik"
+        ]
+    },
+    {
+        "radical": "kong",
+        "radicals": [
+            "kong",
+            "kongs"
+        ]
+    },
+    {
+        "radical": "korea",
+        "radicals": [
+            "korea",
+            "korean"
+        ]
+    },
+    {
+        "radical": "labor",
+        "radicals": [
+            "labor",
+            "labore",
+            "laborer"
+        ]
+    },
+    {
+        "radical": "labore",
+        "radicals": [
+            "labore",
+            "laborer"
+        ]
+    },
+    {
+        "radical": "lac",
+        "radicals": [
+            "lac",
+            "lace",
+            "lack"
+        ]
+    },
+    {
+        "radical": "lack",
+        "radicals": [
+            "lack",
+            "lacke"
+        ]
+    },
+    {
+        "radical": "lacke",
+        "radicals": [
+            "lacke",
+            "lackey"
+        ]
+    },
+    {
+        "radical": "lad",
+        "radicals": [
+            "lad",
+            "lady"
+        ]
+    },
+    {
+        "radical": "lap",
+        "radicals": [
+            "lap",
+            "laps"
+        ]
+    },
+    {
+        "radical": "laps",
+        "radicals": [
+            "laps",
+            "lapse"
+        ]
+    },
+    {
+        "radical": "leader",
+        "radicals": [
+            "leader",
+            "leaders"
+        ]
+    },
+    {
+        "radical": "learn",
+        "radicals": [
+            "learn",
+            "learne"
+        ]
+    },
+    {
+        "radical": "leftis",
+        "radicals": [
+            "leftis",
+            "leftist"
+        ]
+    },
+    {
+        "radical": "legitima",
+        "radicals": [
+            "legitima",
+            "legitimate"
+        ]
+    },
+    {
+        "radical": "leo",
+        "radicals": [
+            "leo",
+            "leon"
+        ]
+    },
+    {
+        "radical": "lesse",
+        "radicals": [
+            "lesse",
+            "lessen"
+        ]
+    },
+    {
+        "radical": "liber",
+        "radicals": [
+            "libera",
+            "libert"
+        ]
+    },
+    {
+        "radical": "libera",
+        "radicals": [
+            "libera",
+            "liberal",
+            "liberali",
+            "liberaliz",
+            "liberate"
+        ]
+    },
+    {
+        "radical": "liberal",
+        "radicals": [
+            "liberal",
+            "liberali",
+            "liberaliz"
+        ]
+    },
+    {
+        "radical": "liberali",
+        "radicals": [
+            "liberali",
+            "liberaliz"
+        ]
+    },
+    {
+        "radical": "lie",
+        "radicals": [
+            "lie",
+            "lieu"
+        ]
+    },
+    {
+        "radical": "light",
+        "radicals": [
+            "light",
+            "lighte",
+            "lighter"
+        ]
+    },
+    {
+        "radical": "lighte",
+        "radicals": [
+            "lighte",
+            "lighter"
+        ]
+    },
+    {
+        "radical": "lin",
+        "radicals": [
+            "lin",
+            "line",
+            "link"
+        ]
+    },
+    {
+        "radical": "liquid",
+        "radicals": [
+            "liquid",
+            "liquidat"
+        ]
+    },
+    {
+        "radical": "list",
+        "radicals": [
+            "list",
+            "liste"
+        ]
+    },
+    {
+        "radical": "liste",
+        "radicals": [
+            "liste",
+            "listen",
+            "listene"
+        ]
+    },
+    {
+        "radical": "listen",
+        "radicals": [
+            "listen",
+            "listene",
+            "listener"
+        ]
+    },
+    {
+        "radical": "listene",
+        "radicals": [
+            "listene",
+            "listener"
+        ]
+    },
+    {
+        "radical": "live",
+        "radicals": [
+            "live",
+            "liver"
+        ]
+    },
+    {
+        "radical": "loath",
+        "radicals": [
+            "loath",
+            "loathe"
+        ]
+    },
+    {
+        "radical": "loose",
+        "radicals": [
+            "loose",
+            "loosen"
+        ]
+    },
+    {
+        "radical": "los",
+        "radicals": [
+            "los",
+            "lose"
+        ]
+    },
+    {
+        "radical": "lose",
+        "radicals": [
+            "lose",
+            "loser"
+        ]
+    },
+    {
+        "radical": "love",
+        "radicals": [
+            "love",
+            "lover"
+        ]
+    },
+    {
+        "radical": "lunch",
+        "radicals": [
+            "lunch",
+            "lunche"
+        ]
+    },
+    {
+        "radical": "majest",
+        "radicals": [
+            "majest",
+            "majesti",
+            "majestic",
+            "majesty"
+        ]
+    },
+    {
+        "radical": "majesti",
+        "radicals": [
+            "majesti",
+            "majestic"
+        ]
+    },
+    {
+        "radical": "make",
+        "radicals": [
+            "make",
+            "maker"
+        ]
+    },
+    {
+        "radical": "malay",
+        "radicals": [
+            "malay",
+            "malaya",
+            "malays"
+        ]
+    },
+    {
+        "radical": "malays",
+        "radicals": [
+            "malays",
+            "malaysia"
+        ]
+    },
+    {
+        "radical": "man",
+        "radicals": [
+            "man",
+            "mane"
+        ]
+    },
+    {
+        "radical": "manage",
+        "radicals": [
+            "manage",
+            "manager"
+        ]
+    },
+    {
+        "radical": "manufactur",
+        "radicals": [
+            "manufactur",
+            "manufacture"
+        ]
+    },
+    {
+        "radical": "mar",
+        "radicals": [
+            "mar",
+            "mark",
+            "marx"
+        ]
+    },
+    {
+        "radical": "march",
+        "radicals": [
+            "march",
+            "marche"
+        ]
+    },
+    {
+        "radical": "margaret",
+        "radicals": [
+            "margaret",
+            "margarete"
+        ]
+    },
+    {
+        "radical": "mark",
+        "radicals": [
+            "mark",
+            "marke"
+        ]
+    },
+    {
+        "radical": "marke",
+        "radicals": [
+            "marke",
+            "marked",
+            "market"
+        ]
+    },
+    {
+        "radical": "marxis",
+        "radicals": [
+            "marxis",
+            "marxist"
+        ]
+    },
+    {
+        "radical": "mass",
+        "radicals": [
+            "mass",
+            "masse"
+        ]
+    },
+    {
+        "radical": "match",
+        "radicals": [
+            "match",
+            "matche"
+        ]
+    },
+    {
+        "radical": "material",
+        "radicals": [
+            "material",
+            "materiali"
+        ]
+    },
+    {
+        "radical": "mechani",
+        "radicals": [
+            "mechani",
+            "mechanic"
+        ]
+    },
+    {
+        "radical": "meditati",
+        "radicals": [
+            "meditati",
+            "meditation"
+        ]
+    },
+    {
+        "radical": "mel",
+        "radicals": [
+            "mel",
+            "mele",
+            "melt"
+        ]
+    },
+    {
+        "radical": "member",
+        "radicals": [
+            "member",
+            "members"
+        ]
+    },
+    {
+        "radical": "men",
+        "radicals": [
+            "men",
+            "menu"
+        ]
+    },
+    {
+        "radical": "merge",
+        "radicals": [
+            "merge",
+            "merger"
+        ]
+    },
+    {
+        "radical": "met",
+        "radicals": [
+            "met",
+            "mete"
+        ]
+    },
+    {
+        "radical": "middle",
+        "radicals": [
+            "middle",
+            "middle-ag"
+        ]
+    },
+    {
+        "radical": "mill",
+        "radicals": [
+            "mill",
+            "mille"
+        ]
+    },
+    {
+        "radical": "mine",
+        "radicals": [
+            "mine",
+            "miner"
+        ]
+    },
+    {
+        "radical": "miner",
+        "radicals": [
+            "miner",
+            "mineral"
+        ]
+    },
+    {
+        "radical": "minister",
+        "radicals": [
+            "minister",
+            "ministeri"
+        ]
+    },
+    {
+        "radical": "mission",
+        "radicals": [
+            "mission",
+            "missionar"
+        ]
+    },
+    {
+        "radical": "mode",
+        "radicals": [
+            "mode",
+            "model"
+        ]
+    },
+    {
+        "radical": "moderat",
+        "radicals": [
+            "moderate",
+            "moderati"
+        ]
+    },
+    {
+        "radical": "modern",
+        "radicals": [
+            "modern",
+            "modernist",
+            "moderniz"
+        ]
+    },
+    {
+        "radical": "moderni",
+        "radicals": [
+            "modernist",
+            "moderniz"
+        ]
+    },
+    {
+        "radical": "monarch",
+        "radicals": [
+            "monarch",
+            "monarchi",
+            "monarchist",
+            "monarchy"
+        ]
+    },
+    {
+        "radical": "monarchi",
+        "radicals": [
+            "monarchi",
+            "monarchist"
+        ]
+    },
+    {
+        "radical": "mongol",
+        "radicals": [
+            "mongol",
+            "mongolia"
+        ]
+    },
+    {
+        "radical": "mont",
+        "radicals": [
+            "mont",
+            "month"
+        ]
+    },
+    {
+        "radical": "mor",
+        "radicals": [
+            "mor",
+            "moro"
+        ]
+    },
+    {
+        "radical": "mornin",
+        "radicals": [
+            "mornin",
+            "morning"
+        ]
+    },
+    {
+        "radical": "morocc",
+        "radicals": [
+            "morocc",
+            "moroccan",
+            "morocco"
+        ]
+    },
+    {
+        "radical": "morta",
+        "radicals": [
+            "morta",
+            "mortal",
+            "mortar"
+        ]
+    },
+    {
+        "radical": "mountain",
+        "radicals": [
+            "mountain",
+            "mountains"
+        ]
+    },
+    {
+        "radical": "mourn",
+        "radicals": [
+            "mourn",
+            "mourne"
+        ]
+    },
+    {
+        "radical": "murder",
+        "radicals": [
+            "murder",
+            "murdere"
+        ]
+    },
+    {
+        "radical": "mutter",
+        "radicals": [
+            "mutter",
+            "muttering"
+        ]
+    },
+    {
+        "radical": "nasser",
+        "radicals": [
+            "nasser",
+            "nasserite"
+        ]
+    },
+    {
+        "radical": "nation",
+        "radicals": [
+            "nation",
+            "national",
+            "nationali"
+        ]
+    },
+    {
+        "radical": "national",
+        "radicals": [
+            "national",
+            "nationali",
+            "nationalis",
+            "nationalism",
+            "nationalist",
+            "nationalit",
+            "nationalize"
+        ]
+    },
+    {
+        "radical": "nationali",
+        "radicals": [
+            "nationali",
+            "nationalis",
+            "nationalism",
+            "nationalist",
+            "nationalit",
+            "nationalize"
+        ]
+    },
+    {
+        "radical": "nationalis",
+        "radicals": [
+            "nationalis",
+            "nationalism",
+            "nationalist"
+        ]
+    },
+    {
+        "radical": "nazi",
+        "radicals": [
+            "nazi",
+            "nazis"
+        ]
+    },
+    {
+        "radical": "necessit",
+        "radicals": [
+            "necessit",
+            "necessitate"
+        ]
+    },
+    {
+        "radical": "needle",
+        "radicals": [
+            "needle",
+            "needles"
+        ]
+    },
+    {
+        "radical": "negotiat",
+        "radicals": [
+            "negotiat",
+            "negotiate",
+            "negotiati",
+            "negotiatio",
+            "negotiation",
+            "negotiator"
+        ]
+    },
+    {
+        "radical": "negotiati",
+        "radicals": [
+            "negotiati",
+            "negotiatio",
+            "negotiation"
+        ]
+    },
+    {
+        "radical": "negotiatio",
+        "radicals": [
+            "negotiatio",
+            "negotiation"
+        ]
+    },
+    {
+        "radical": "neutral",
+        "radicals": [
+            "neutral",
+            "neutrali",
+            "neutralis",
+            "neutralist",
+            "neutralize"
+        ]
+    },
+    {
+        "radical": "neutrali",
+        "radicals": [
+            "neutrali",
+            "neutralis",
+            "neutralist",
+            "neutralize"
+        ]
+    },
+    {
+        "radical": "neutralis",
+        "radicals": [
+            "neutralis",
+            "neutralist"
+        ]
+    },
+    {
+        "radical": "niger",
+        "radicals": [
+            "niger",
+            "nigeria"
+        ]
+    },
+    {
+        "radical": "nigeria",
+        "radicals": [
+            "nigeria",
+            "nigerian"
+        ]
+    },
+    {
+        "radical": "norma",
+        "radicals": [
+            "norma",
+            "normal",
+            "norman"
+        ]
+    },
+    {
+        "radical": "nubia",
+        "radicals": [
+            "nubia",
+            "nubian"
+        ]
+    },
+    {
+        "radical": "object",
+        "radicals": [
+            "object",
+            "objection",
+            "objective"
+        ]
+    },
+    {
+        "radical": "observe",
+        "radicals": [
+            "observe",
+            "observer"
+        ]
+    },
+    {
+        "radical": "occasion",
+        "radicals": [
+            "occasion",
+            "occasional"
+        ]
+    },
+    {
+        "radical": "office",
+        "radicals": [
+            "office",
+            "officer"
+        ]
+    },
+    {
+        "radical": "olympi",
+        "radicals": [
+            "olympi",
+            "olympio"
+        ]
+    },
+    {
+        "radical": "opera",
+        "radicals": [
+            "opera",
+            "operat",
+            "operate",
+            "operati"
+        ]
+    },
+    {
+        "radical": "operat",
+        "radicals": [
+            "operat",
+            "operate",
+            "operati",
+            "operation",
+            "operator"
+        ]
+    },
+    {
+        "radical": "operati",
+        "radicals": [
+            "operati",
+            "operation"
+        ]
+    },
+    {
+        "radical": "opportuni",
+        "radicals": [
+            "opportuni",
+            "opportunis",
+            "opportunist",
+            "opportunit"
+        ]
+    },
+    {
+        "radical": "opportunis",
+        "radicals": [
+            "opportunis",
+            "opportunist"
+        ]
+    },
+    {
+        "radical": "optimis",
+        "radicals": [
+            "optimis",
+            "optimism",
+            "optimist",
+            "optimistic"
+        ]
+    },
+    {
+        "radical": "optimist",
+        "radicals": [
+            "optimist",
+            "optimistic"
+        ]
+    },
+    {
+        "radical": "organize",
+        "radicals": [
+            "organize",
+            "organizer"
+        ]
+    },
+    {
+        "radical": "origin",
+        "radicals": [
+            "origin",
+            "original"
+        ]
+    },
+    {
+        "radical": "ouste",
+        "radicals": [
+            "ouste",
+            "ouster"
+        ]
+    },
+    {
+        "radical": "overse",
+        "radicals": [
+            "overse",
+            "oversee"
+        ]
+    },
+    {
+        "radical": "overt",
+        "radicals": [
+            "overt",
+            "overtur"
+        ]
+    },
+    {
+        "radical": "overtur",
+        "radicals": [
+            "overtur",
+            "overturn"
+        ]
+    },
+    {
+        "radical": "overwhelm",
+        "radicals": [
+            "overwhelm",
+            "overwhelming"
+        ]
+    },
+    {
+        "radical": "owner",
+        "radicals": [
+            "owner",
+            "owners"
+        ]
+    },
+    {
+        "radical": "pacif",
+        "radicals": [
+            "pacifi",
+            "pacify"
+        ]
+    },
+    {
+        "radical": "pain",
+        "radicals": [
+            "pain",
+            "paint"
+        ]
+    },
+    {
+        "radical": "paint",
+        "radicals": [
+            "paint",
+            "painte",
+            "painter"
+        ]
+    },
+    {
+        "radical": "painte",
+        "radicals": [
+            "painte",
+            "painter"
+        ]
+    },
+    {
+        "radical": "pakistan",
+        "radicals": [
+            "pakistan",
+            "pakistani"
+        ]
+    },
+    {
+        "radical": "pal",
+        "radicals": [
+            "pal",
+            "pale",
+            "palm"
+        ]
+    },
+    {
+        "radical": "pale",
+        "radicals": [
+            "pale",
+            "paler"
+        ]
+    },
+    {
+        "radical": "panic",
+        "radicals": [
+            "panic",
+            "panick"
+        ]
+    },
+    {
+        "radical": "par",
+        "radicals": [
+            "par",
+            "park",
+            "part"
+        ]
+    },
+    {
+        "radical": "pardo",
+        "radicals": [
+            "pardo",
+            "pardon"
+        ]
+    },
+    {
+        "radical": "park",
+        "radicals": [
+            "park",
+            "parke"
+        ]
+    },
+    {
+        "radical": "parliament",
+        "radicals": [
+            "parliament",
+            "parliamentar"
+        ]
+    },
+    {
+        "radical": "part",
+        "radicals": [
+            "part",
+            "party"
+        ]
+    },
+    {
+        "radical": "participa",
+        "radicals": [
+            "participa",
+            "participat",
+            "participate",
+            "participati"
+        ]
+    },
+    {
+        "radical": "participat",
+        "radicals": [
+            "participat",
+            "participate",
+            "participati"
+        ]
+    },
+    {
+        "radical": "partner",
+        "radicals": [
+            "partner",
+            "partners"
+        ]
+    },
+    {
+        "radical": "pass",
+        "radicals": [
+            "pass",
+            "passe"
+        ]
+    },
+    {
+        "radical": "passion",
+        "radicals": [
+            "passion",
+            "passionate"
+        ]
+    },
+    {
+        "radical": "pat",
+        "radicals": [
+            "pat",
+            "path"
+        ]
+    },
+    {
+        "radical": "patien",
+        "radicals": [
+            "patien",
+            "patient"
+        ]
+    },
+    {
+        "radical": "patric",
+        "radicals": [
+            "patric",
+            "patrician"
+        ]
+    },
+    {
+        "radical": "pea",
+        "radicals": [
+            "pea",
+            "peak"
+        ]
+    },
+    {
+        "radical": "penetrat",
+        "radicals": [
+            "penetrat",
+            "penetrate"
+        ]
+    },
+    {
+        "radical": "percent",
+        "radicals": [
+            "percent",
+            "percentage"
+        ]
+    },
+    {
+        "radical": "perform",
+        "radicals": [
+            "perform",
+            "performe"
+        ]
+    },
+    {
+        "radical": "period",
+        "radicals": [
+            "period",
+            "periodic"
+        ]
+    },
+    {
+        "radical": "persia",
+        "radicals": [
+            "persia",
+            "persian"
+        ]
+    },
+    {
+        "radical": "persist",
+        "radicals": [
+            "persist",
+            "persiste"
+        ]
+    },
+    {
+        "radical": "person",
+        "radicals": [
+            "person",
+            "persona",
+            "personal",
+            "personali",
+            "personif"
+        ]
+    },
+    {
+        "radical": "persona",
+        "radicals": [
+            "persona",
+            "personal",
+            "personali",
+            "personalit"
+        ]
+    },
+    {
+        "radical": "personal",
+        "radicals": [
+            "personal",
+            "personali",
+            "personalit"
+        ]
+    },
+    {
+        "radical": "personali",
+        "radicals": [
+            "personali",
+            "personalit"
+        ]
+    },
+    {
+        "radical": "peter",
+        "radicals": [
+            "peter",
+            "peters"
+        ]
+    },
+    {
+        "radical": "petition",
+        "radicals": [
+            "petition",
+            "petitione"
+        ]
+    },
+    {
+        "radical": "phenomen",
+        "radicals": [
+            "phenomen",
+            "phenomena"
+        ]
+    },
+    {
+        "radical": "philippi",
+        "radicals": [
+            "philippi",
+            "philippine"
+        ]
+    },
+    {
+        "radical": "photograph",
+        "radicals": [
+            "photograph",
+            "photographe",
+            "photographer"
+        ]
+    },
+    {
+        "radical": "photographe",
+        "radicals": [
+            "photographe",
+            "photographer"
+        ]
+    },
+    {
+        "radical": "phoum",
+        "radicals": [
+            "phoum",
+            "phouma",
+            "phoumi"
+        ]
+    },
+    {
+        "radical": "physic",
+        "radicals": [
+            "physic",
+            "physical",
+            "physicist"
+        ]
+    },
+    {
+        "radical": "pil",
+        "radicals": [
+            "pil",
+            "pile",
+            "pilz"
+        ]
+    },
+    {
+        "radical": "pilgrim",
+        "radicals": [
+            "pilgrim",
+            "pilgrimage"
+        ]
+    },
+    {
+        "radical": "plan",
+        "radicals": [
+            "plan",
+            "plane",
+            "plant"
+        ]
+    },
+    {
+        "radical": "planne",
+        "radicals": [
+            "planne",
+            "planner"
+        ]
+    },
+    {
+        "radical": "plant",
+        "radicals": [
+            "plant",
+            "plante",
+            "planter"
+        ]
+    },
+    {
+        "radical": "plante",
+        "radicals": [
+            "plante",
+            "planter"
+        ]
+    },
+    {
+        "radical": "plate",
+        "radicals": [
+            "plate",
+            "plateau"
+        ]
+    },
+    {
+        "radical": "play",
+        "radicals": [
+            "play",
+            "playe"
+        ]
+    },
+    {
+        "radical": "playe",
+        "radicals": [
+            "playe",
+            "player"
+        ]
+    },
+    {
+        "radical": "plea",
+        "radicals": [
+            "plea",
+            "plead",
+            "pleas"
+        ]
+    },
+    {
+        "radical": "pleas",
+        "radicals": [
+            "pleas",
+            "please"
+        ]
+    },
+    {
+        "radical": "plumb",
+        "radicals": [
+            "plumb",
+            "plumber"
+        ]
+    },
+    {
+        "radical": "point",
+        "radicals": [
+            "point",
+            "pointe",
+            "pointed",
+            "pointer"
+        ]
+    },
+    {
+        "radical": "pointe",
+        "radicals": [
+            "pointe",
+            "pointed",
+            "pointer"
+        ]
+    },
+    {
+        "radical": "polic",
+        "radicals": [
+            "polic",
+            "police"
+        ]
+    },
+    {
+        "radical": "police",
+        "radicals": [
+            "police",
+            "policeman",
+            "policemen",
+            "policewom"
+        ]
+    },
+    {
+        "radical": "polish",
+        "radicals": [
+            "polish",
+            "polishe"
+        ]
+    },
+    {
+        "radical": "politic",
+        "radicals": [
+            "politic",
+            "political",
+            "politician"
+        ]
+    },
+    {
+        "radical": "ponder",
+        "radicals": [
+            "ponder",
+            "ponderous"
+        ]
+    },
+    {
+        "radical": "popula",
+        "radicals": [
+            "popula",
+            "popular"
+        ]
+    },
+    {
+        "radical": "possessi",
+        "radicals": [
+            "possessi",
+            "possession"
+        ]
+    },
+    {
+        "radical": "post",
+        "radicals": [
+            "post",
+            "poste"
+        ]
+    },
+    {
+        "radical": "poste",
+        "radicals": [
+            "poste",
+            "poster"
+        ]
+    },
+    {
+        "radical": "potent",
+        "radicals": [
+            "potent",
+            "potential"
+        ]
+    },
+    {
+        "radical": "practic",
+        "radicals": [
+            "practic",
+            "practical",
+            "practice"
+        ]
+    },
+    {
+        "radical": "pragmati",
+        "radicals": [
+            "pragmati",
+            "pragmatic",
+            "pragmatis"
+        ]
+    },
+    {
+        "radical": "praye",
+        "radicals": [
+            "praye",
+            "prayer"
+        ]
+    },
+    {
+        "radical": "precede",
+        "radicals": [
+            "precede",
+            "preceden"
+        ]
+    },
+    {
+        "radical": "precipitat",
+        "radicals": [
+            "precipitat",
+            "precipitate"
+        ]
+    },
+    {
+        "radical": "predict",
+        "radicals": [
+            "predict",
+            "predictabl"
+        ]
+    },
+    {
+        "radical": "prejudic",
+        "radicals": [
+            "prejudic",
+            "prejudice"
+        ]
+    },
+    {
+        "radical": "premier",
+        "radicals": [
+            "premier",
+            "premiers"
+        ]
+    },
+    {
+        "radical": "prepare",
+        "radicals": [
+            "prepare",
+            "prepared"
+        ]
+    },
+    {
+        "radical": "presen",
+        "radicals": [
+            "presen",
+            "present"
+        ]
+    },
+    {
+        "radical": "preside",
+        "radicals": [
+            "preside",
+            "presiden",
+            "president"
+        ]
+    },
+    {
+        "radical": "presiden",
+        "radicals": [
+            "presiden",
+            "president"
+        ]
+    },
+    {
+        "radical": "pretend",
+        "radicals": [
+            "pretend",
+            "pretende"
+        ]
+    },
+    {
+        "radical": "prevent",
+        "radicals": [
+            "prevent",
+            "preventi"
+        ]
+    },
+    {
+        "radical": "prince",
+        "radicals": [
+            "prince",
+            "princes",
+            "princess"
+        ]
+    },
+    {
+        "radical": "princes",
+        "radicals": [
+            "princes",
+            "princess"
+        ]
+    },
+    {
+        "radical": "principal",
+        "radicals": [
+            "principal",
+            "principalit"
+        ]
+    },
+    {
+        "radical": "prison",
+        "radicals": [
+            "prison",
+            "prisoner"
+        ]
+    },
+    {
+        "radical": "pro-west",
+        "radicals": [
+            "pro-west",
+            "pro-western"
+        ]
+    },
+    {
+        "radical": "proceed",
+        "radicals": [
+            "proceed",
+            "proceeding"
+        ]
+    },
+    {
+        "radical": "process",
+        "radicals": [
+            "process",
+            "processi",
+            "procession"
+        ]
+    },
+    {
+        "radical": "processi",
+        "radicals": [
+            "processi",
+            "procession"
+        ]
+    },
+    {
+        "radical": "produc",
+        "radicals": [
+            "produc",
+            "produce",
+            "producer",
+            "product",
+            "producti",
+            "productiv"
+        ]
+    },
+    {
+        "radical": "produce",
+        "radicals": [
+            "produce",
+            "producer"
+        ]
+    },
+    {
+        "radical": "product",
+        "radicals": [
+            "product",
+            "producti",
+            "productiv"
+        ]
+    },
+    {
+        "radical": "producti",
+        "radicals": [
+            "producti",
+            "productiv"
+        ]
+    },
+    {
+        "radical": "profess",
+        "radicals": [
+            "profess",
+            "professed",
+            "profession",
+            "professor"
+        ]
+    },
+    {
+        "radical": "profession",
+        "radicals": [
+            "profession",
+            "professional"
+        ]
+    },
+    {
+        "radical": "progress",
+        "radicals": [
+            "progress",
+            "progressi",
+            "progressive"
+        ]
+    },
+    {
+        "radical": "progressi",
+        "radicals": [
+            "progressi",
+            "progressive"
+        ]
+    },
+    {
+        "radical": "prohibit",
+        "radicals": [
+            "prohibit",
+            "prohibiti",
+            "prohibition",
+            "prohibitive"
+        ]
+    },
+    {
+        "radical": "prohibiti",
+        "radicals": [
+            "prohibiti",
+            "prohibition",
+            "prohibitive"
+        ]
+    },
+    {
+        "radical": "prominen",
+        "radicals": [
+            "prominen",
+            "prominent"
+        ]
+    },
+    {
+        "radical": "pronounce",
+        "radicals": [
+            "pronounce",
+            "pronouncement"
+        ]
+    },
+    {
+        "radical": "propagand",
+        "radicals": [
+            "propagand",
+            "propagandi",
+            "propagandist"
+        ]
+    },
+    {
+        "radical": "propagandi",
+        "radicals": [
+            "propagandi",
+            "propagandist"
+        ]
+    },
+    {
+        "radical": "prophe",
+        "radicals": [
+            "prophe",
+            "prophet"
+        ]
+    },
+    {
+        "radical": "propos",
+        "radicals": [
+            "propos",
+            "proposal",
+            "propose"
+        ]
+    },
+    {
+        "radical": "propriet",
+        "radicals": [
+            "propriet",
+            "proprietor"
+        ]
+    },
+    {
+        "radical": "prospe",
+        "radicals": [
+            "prospe",
+            "prospect",
+            "prosper",
+            "prosperi"
+        ]
+    },
+    {
+        "radical": "prosper",
+        "radicals": [
+            "prosper",
+            "prosperi"
+        ]
+    },
+    {
+        "radical": "prostitut",
+        "radicals": [
+            "prostitut",
+            "prostitute"
+        ]
+    },
+    {
+        "radical": "protect",
+        "radicals": [
+            "protect",
+            "protecti",
+            "protection",
+            "protective",
+            "protector"
+        ]
+    },
+    {
+        "radical": "protecti",
+        "radicals": [
+            "protecti",
+            "protection",
+            "protectionis",
+            "protective"
+        ]
+    },
+    {
+        "radical": "protection",
+        "radicals": [
+            "protection",
+            "protectionis"
+        ]
+    },
+    {
+        "radical": "protector",
+        "radicals": [
+            "protector",
+            "protectorate"
+        ]
+    },
+    {
+        "radical": "prove",
+        "radicals": [
+            "prove",
+            "proverb"
+        ]
+    },
+    {
+        "radical": "proverb",
+        "radicals": [
+            "proverb",
+            "proverbial"
+        ]
+    },
+    {
+        "radical": "provin",
+        "radicals": [
+            "provin",
+            "province"
+        ]
+    },
+    {
+        "radical": "provocati",
+        "radicals": [
+            "provocati",
+            "provocation"
+        ]
+    },
+    {
+        "radical": "psychologi",
+        "radicals": [
+            "psychologi",
+            "psychological"
+        ]
+    },
+    {
+        "radical": "publish",
+        "radicals": [
+            "publish",
+            "publishe"
+        ]
+    },
+    {
+        "radical": "pump",
+        "radicals": [
+            "pump",
+            "pumpi"
+        ]
+    },
+    {
+        "radical": "pursu",
+        "radicals": [
+            "pursue",
+            "pursui"
+        ]
+    },
+    {
+        "radical": "quake",
+        "radicals": [
+            "quake",
+            "quaker"
+        ]
+    },
+    {
+        "radical": "quarrel",
+        "radicals": [
+            "quarrel",
+            "quarrels"
+        ]
+    },
+    {
+        "radical": "quart",
+        "radicals": [
+            "quart",
+            "quarte",
+            "quarter"
+        ]
+    },
+    {
+        "radical": "quarte",
+        "radicals": [
+            "quarte",
+            "quarter"
+        ]
+    },
+    {
+        "radical": "quiet",
+        "radicals": [
+            "quiet",
+            "quiete"
+        ]
+    },
+    {
+        "radical": "raid",
+        "radicals": [
+            "raid",
+            "raide"
+        ]
+    },
+    {
+        "radical": "raide",
+        "radicals": [
+            "raide",
+            "raider"
+        ]
+    },
+    {
+        "radical": "ran",
+        "radicals": [
+            "ran",
+            "rang",
+            "rank"
+        ]
+    },
+    {
+        "radical": "rang",
+        "radicals": [
+            "rang",
+            "range"
+        ]
+    },
+    {
+        "radical": "rap",
+        "radicals": [
+            "rap",
+            "rape"
+        ]
+    },
+    {
+        "radical": "rat",
+        "radicals": [
+            "rat",
+            "rate"
+        ]
+    },
+    {
+        "radical": "ration",
+        "radicals": [
+            "ration",
+            "rational"
+        ]
+    },
+    {
+        "radical": "re-examin",
+        "radicals": [
+            "re-examin",
+            "re-examine"
+        ]
+    },
+    {
+        "radical": "reach",
+        "radicals": [
+            "reach",
+            "reache"
+        ]
+    },
+    {
+        "radical": "reaction",
+        "radicals": [
+            "reaction",
+            "reactionar"
+        ]
+    },
+    {
+        "radical": "realis",
+        "radicals": [
+            "realis",
+            "realist"
+        ]
+    },
+    {
+        "radical": "rebellio",
+        "radicals": [
+            "rebellio",
+            "rebellion"
+        ]
+    },
+    {
+        "radical": "rebuil",
+        "radicals": [
+            "rebuil",
+            "rebuild"
+        ]
+    },
+    {
+        "radical": "reciproca",
+        "radicals": [
+            "reciproca",
+            "reciprocal"
+        ]
+    },
+    {
+        "radical": "recogniz",
+        "radicals": [
+            "recogniz",
+            "recognize"
+        ]
+    },
+    {
+        "radical": "record",
+        "radicals": [
+            "record",
+            "recorde",
+            "recorder"
+        ]
+    },
+    {
+        "radical": "recorde",
+        "radicals": [
+            "recorde",
+            "recorder"
+        ]
+    },
+    {
+        "radical": "red",
+        "radicals": [
+            "red",
+            "reds"
+        ]
+    },
+    {
+        "radical": "redeem",
+        "radicals": [
+            "redeem",
+            "redeeme"
+        ]
+    },
+    {
+        "radical": "reflect",
+        "radicals": [
+            "reflect",
+            "reflecti"
+        ]
+    },
+    {
+        "radical": "reform",
+        "radicals": [
+            "reform",
+            "reforme",
+            "reformer"
+        ]
+    },
+    {
+        "radical": "reforme",
+        "radicals": [
+            "reforme",
+            "reformer"
+        ]
+    },
+    {
+        "radical": "refrigerat",
+        "radicals": [
+            "refrigerat",
+            "refrigerator"
+        ]
+    },
+    {
+        "radical": "refuge",
+        "radicals": [
+            "refuge",
+            "refugee"
+        ]
+    },
+    {
+        "radical": "regime",
+        "radicals": [
+            "regime",
+            "regiment"
+        ]
+    },
+    {
+        "radical": "region",
+        "radicals": [
+            "region",
+            "regional"
+        ]
+    },
+    {
+        "radical": "regula",
+        "radicals": [
+            "regula",
+            "regular",
+            "regulate"
+        ]
+    },
+    {
+        "radical": "reinforc",
+        "radicals": [
+            "reinforc",
+            "reinforce"
+        ]
+    },
+    {
+        "radical": "relation",
+        "radicals": [
+            "relation",
+            "relations",
+            "relationship"
+        ]
+    },
+    {
+        "radical": "relations",
+        "radicals": [
+            "relations",
+            "relationship"
+        ]
+    },
+    {
+        "radical": "relax",
+        "radicals": [
+            "relax",
+            "relaxe"
+        ]
+    },
+    {
+        "radical": "relie",
+        "radicals": [
+            "relie",
+            "relieve"
+        ]
+    },
+    {
+        "radical": "religio",
+        "radicals": [
+            "religio",
+            "religion",
+            "religious"
+        ]
+    },
+    {
+        "radical": "reluctan",
+        "radicals": [
+            "reluctan",
+            "reluctant"
+        ]
+    },
+    {
+        "radical": "remark",
+        "radicals": [
+            "remark",
+            "remarkabl"
+        ]
+    },
+    {
+        "radical": "remind",
+        "radicals": [
+            "remind",
+            "reminde"
+        ]
+    },
+    {
+        "radical": "rene",
+        "radicals": [
+            "rene",
+            "renew"
+        ]
+    },
+    {
+        "radical": "repai",
+        "radicals": [
+            "repai",
+            "repair"
+        ]
+    },
+    {
+        "radical": "repea",
+        "radicals": [
+            "repea",
+            "repeal",
+            "repeat"
+        ]
+    },
+    {
+        "radical": "repeat",
+        "radicals": [
+            "repeat",
+            "repeated"
+        ]
+    },
+    {
+        "radical": "report",
+        "radicals": [
+            "report",
+            "reporte",
+            "reported",
+            "reporter"
+        ]
+    },
+    {
+        "radical": "reporte",
+        "radicals": [
+            "reporte",
+            "reported",
+            "reporter"
+        ]
+    },
+    {
+        "radical": "represent",
+        "radicals": [
+            "represent",
+            "representati",
+            "representative"
+        ]
+    },
+    {
+        "radical": "representati",
+        "radicals": [
+            "representati",
+            "representative"
+        ]
+    },
+    {
+        "radical": "republic",
+        "radicals": [
+            "republic",
+            "republican",
+            "republics"
+        ]
+    },
+    {
+        "radical": "research",
+        "radicals": [
+            "research",
+            "researcher"
+        ]
+    },
+    {
+        "radical": "residen",
+        "radicals": [
+            "residen",
+            "residence",
+            "resident"
+        ]
+    },
+    {
+        "radical": "respect",
+        "radicals": [
+            "respect",
+            "respectful"
+        ]
+    },
+    {
+        "radical": "respon",
+        "radicals": [
+            "respon",
+            "respond",
+            "response"
+        ]
+    },
+    {
+        "radical": "restrict",
+        "radicals": [
+            "restrict",
+            "restricti",
+            "restriction"
+        ]
+    },
+    {
+        "radical": "restricti",
+        "radicals": [
+            "restricti",
+            "restriction"
+        ]
+    },
+    {
+        "radical": "retai",
+        "radicals": [
+            "retai",
+            "retail",
+            "retain",
+            "retaine"
+        ]
+    },
+    {
+        "radical": "retain",
+        "radicals": [
+            "retain",
+            "retaine",
+            "retainer"
+        ]
+    },
+    {
+        "radical": "retaine",
+        "radicals": [
+            "retaine",
+            "retainer"
+        ]
+    },
+    {
+        "radical": "revere",
+        "radicals": [
+            "revere",
+            "reveren",
+            "reverence",
+            "reverent"
+        ]
+    },
+    {
+        "radical": "reveren",
+        "radicals": [
+            "reveren",
+            "reverence",
+            "reverent"
+        ]
+    },
+    {
+        "radical": "revision",
+        "radicals": [
+            "revision",
+            "revisionis"
+        ]
+    },
+    {
+        "radical": "revolution",
+        "radicals": [
+            "revolution",
+            "revolutionar",
+            "revolutioni"
+        ]
+    },
+    {
+        "radical": "rhetoric",
+        "radicals": [
+            "rhetoric",
+            "rhetorical"
+        ]
+    },
+    {
+        "radical": "rhodesia",
+        "radicals": [
+            "rhodesia",
+            "rhodesian"
+        ]
+    },
+    {
+        "radical": "rich",
+        "radicals": [
+            "rich",
+            "riche"
+        ]
+    },
+    {
+        "radical": "riche",
+        "radicals": [
+            "riche",
+            "riches"
+        ]
+    },
+    {
+        "radical": "rid",
+        "radicals": [
+            "rid",
+            "ride"
+        ]
+    },
+    {
+        "radical": "right-wing",
+        "radicals": [
+            "right-wing",
+            "right-winger"
+        ]
+    },
+    {
+        "radical": "rio",
+        "radicals": [
+            "rio",
+            "riot"
+        ]
+    },
+    {
+        "radical": "riot",
+        "radicals": [
+            "riot",
+            "riote"
+        ]
+    },
+    {
+        "radical": "riote",
+        "radicals": [
+            "riote",
+            "rioter"
+        ]
+    },
+    {
+        "radical": "rive",
+        "radicals": [
+            "rive",
+            "river"
+        ]
+    },
+    {
+        "radical": "river",
+        "radicals": [
+            "river",
+            "rivers"
+        ]
+    },
+    {
+        "radical": "rob",
+        "radicals": [
+            "rob",
+            "robe"
+        ]
+    },
+    {
+        "radical": "robbe",
+        "radicals": [
+            "robbe",
+            "robber"
+        ]
+    },
+    {
+        "radical": "robert",
+        "radicals": [
+            "robert",
+            "roberto"
+        ]
+    },
+    {
+        "radical": "rock",
+        "radicals": [
+            "rock",
+            "rocke"
+        ]
+    },
+    {
+        "radical": "rocke",
+        "radicals": [
+            "rocke",
+            "rocket"
+        ]
+    },
+    {
+        "radical": "roman",
+        "radicals": [
+            "roman",
+            "romano",
+            "romanti"
+        ]
+    },
+    {
+        "radical": "romanti",
+        "radicals": [
+            "romanti",
+            "romantic"
+        ]
+    },
+    {
+        "radical": "rout",
+        "radicals": [
+            "rout",
+            "route"
+        ]
+    },
+    {
+        "radical": "rule",
+        "radicals": [
+            "rule",
+            "ruler"
+        ]
+    },
+    {
+        "radical": "rus",
+        "radicals": [
+            "rus",
+            "rusk",
+            "rust"
+        ]
+    },
+    {
+        "radical": "russia",
+        "radicals": [
+            "russia",
+            "russian"
+        ]
+    },
+    {
+        "radical": "saboteu",
+        "radicals": [
+            "saboteu",
+            "saboteur"
+        ]
+    },
+    {
+        "radical": "sal",
+        "radicals": [
+            "sal",
+            "sale",
+            "salt"
+        ]
+    },
+    {
+        "radical": "sam",
+        "radicals": [
+            "sam",
+            "sami"
+        ]
+    },
+    {
+        "radical": "san",
+        "radicals": [
+            "san",
+            "sand"
+        ]
+    },
+    {
+        "radical": "sand",
+        "radicals": [
+            "sand",
+            "sandy"
+        ]
+    },
+    {
+        "radical": "sash",
+        "radicals": [
+            "sash",
+            "sasha"
+        ]
+    },
+    {
+        "radical": "satisf",
+        "radicals": [
+            "satisfie",
+            "satisfy"
+        ]
+    },
+    {
+        "radical": "saud",
+        "radicals": [
+            "saud",
+            "saudi"
+        ]
+    },
+    {
+        "radical": "scar",
+        "radicals": [
+            "scar",
+            "scare"
+        ]
+    },
+    {
+        "radical": "scholar",
+        "radicals": [
+            "scholar",
+            "scholars"
+        ]
+    },
+    {
+        "radical": "scholars",
+        "radicals": [
+            "scholars",
+            "scholarship"
+        ]
+    },
+    {
+        "radical": "school",
+        "radicals": [
+            "school",
+            "schoolbo"
+        ]
+    },
+    {
+        "radical": "sea",
+        "radicals": [
+            "sea",
+            "seat"
+        ]
+    },
+    {
+        "radical": "search",
+        "radicals": [
+            "search",
+            "searching"
+        ]
+    },
+    {
+        "radical": "secret",
+        "radicals": [
+            "secret",
+            "secretar",
+            "secretari",
+            "secretary"
+        ]
+    },
+    {
+        "radical": "secretar",
+        "radicals": [
+            "secretar",
+            "secretari",
+            "secretary"
+        ]
+    },
+    {
+        "radical": "sensation",
+        "radicals": [
+            "sensation",
+            "sensational",
+            "sensationalis"
+        ]
+    },
+    {
+        "radical": "sensational",
+        "radicals": [
+            "sensational",
+            "sensationalis"
+        ]
+    },
+    {
+        "radical": "sensitiv",
+        "radicals": [
+            "sensitiv",
+            "sensitivit"
+        ]
+    },
+    {
+        "radical": "sentiment",
+        "radicals": [
+            "sentiment",
+            "sentimental"
+        ]
+    },
+    {
+        "radical": "separat",
+        "radicals": [
+            "separate",
+            "separati",
+            "separatis"
+        ]
+    },
+    {
+        "radical": "separati",
+        "radicals": [
+            "separati",
+            "separatis"
+        ]
+    },
+    {
+        "radical": "settle",
+        "radicals": [
+            "settle",
+            "settler"
+        ]
+    },
+    {
+        "radical": "sever",
+        "radicals": [
+            "sever",
+            "severe"
+        ]
+    },
+    {
+        "radical": "sharp",
+        "radicals": [
+            "sharp",
+            "sharpe"
+        ]
+    },
+    {
+        "radical": "sheep",
+        "radicals": [
+            "sheep",
+            "sheeps"
+        ]
+    },
+    {
+        "radical": "shell",
+        "radicals": [
+            "shell",
+            "shelle"
+        ]
+    },
+    {
+        "radical": "shock",
+        "radicals": [
+            "shock",
+            "shocke"
+        ]
+    },
+    {
+        "radical": "short",
+        "radicals": [
+            "short",
+            "shorte"
+        ]
+    },
+    {
+        "radical": "shove",
+        "radicals": [
+            "shove",
+            "shovel"
+        ]
+    },
+    {
+        "radical": "show",
+        "radicals": [
+            "show",
+            "showe"
+        ]
+    },
+    {
+        "radical": "showe",
+        "radicals": [
+            "showe",
+            "shower"
+        ]
+    },
+    {
+        "radical": "siberia",
+        "radicals": [
+            "siberia",
+            "siberian"
+        ]
+    },
+    {
+        "radical": "sig",
+        "radicals": [
+            "sig",
+            "sigh",
+            "sign"
+        ]
+    },
+    {
+        "radical": "sigh",
+        "radicals": [
+            "sigh",
+            "sight"
+        ]
+    },
+    {
+        "radical": "significan",
+        "radicals": [
+            "significan",
+            "significant"
+        ]
+    },
+    {
+        "radical": "simpl",
+        "radicals": [
+            "simpl",
+            "simple"
+        ]
+    },
+    {
+        "radical": "sin",
+        "radicals": [
+            "sin",
+            "sing"
+        ]
+    },
+    {
+        "radical": "sit",
+        "radicals": [
+            "sit",
+            "site"
+        ]
+    },
+    {
+        "radical": "skeptic",
+        "radicals": [
+            "skeptic",
+            "skeptical"
+        ]
+    },
+    {
+        "radical": "ski",
+        "radicals": [
+            "ski",
+            "skid",
+            "skin"
+        ]
+    },
+    {
+        "radical": "skirmish",
+        "radicals": [
+            "skirmish",
+            "skirmishe"
+        ]
+    },
+    {
+        "radical": "slavic",
+        "radicals": [
+            "slavic",
+            "slavich"
+        ]
+    },
+    {
+        "radical": "slid",
+        "radicals": [
+            "slid",
+            "slide"
+        ]
+    },
+    {
+        "radical": "slum",
+        "radicals": [
+            "slum",
+            "slump"
+        ]
+    },
+    {
+        "radical": "small",
+        "radicals": [
+            "small",
+            "smalle"
+        ]
+    },
+    {
+        "radical": "smart",
+        "radicals": [
+            "smart",
+            "smarte"
+        ]
+    },
+    {
+        "radical": "snatch",
+        "radicals": [
+            "snatch",
+            "snatche",
+            "snatching"
+        ]
+    },
+    {
+        "radical": "social",
+        "radicals": [
+            "social",
+            "socialis",
+            "socialism",
+            "socialist",
+            "socialize"
+        ]
+    },
+    {
+        "radical": "sociali",
+        "radicals": [
+            "socialis",
+            "socialize"
+        ]
+    },
+    {
+        "radical": "socialis",
+        "radicals": [
+            "socialis",
+            "socialism",
+            "socialist"
+        ]
+    },
+    {
+        "radical": "solicito",
+        "radicals": [
+            "solicito",
+            "solicitous"
+        ]
+    },
+    {
+        "radical": "solo",
+        "radicals": [
+            "solo",
+            "solon"
+        ]
+    },
+    {
+        "radical": "somali",
+        "radicals": [
+            "somali",
+            "somalia"
+        ]
+    },
+    {
+        "radical": "son",
+        "radicals": [
+            "son",
+            "song"
+        ]
+    },
+    {
+        "radical": "sou",
+        "radicals": [
+            "sou",
+            "soul",
+            "sout"
+        ]
+    },
+    {
+        "radical": "sovereign",
+        "radicals": [
+            "sovereign",
+            "sovereignt"
+        ]
+    },
+    {
+        "radical": "speak",
+        "radicals": [
+            "speak",
+            "speaker"
+        ]
+    },
+    {
+        "radical": "special",
+        "radicals": [
+            "special",
+            "speciali",
+            "specialist",
+            "specializ",
+            "specialize",
+            "specialt"
+        ]
+    },
+    {
+        "radical": "speciali",
+        "radicals": [
+            "speciali",
+            "specialist",
+            "specializ",
+            "specialize"
+        ]
+    },
+    {
+        "radical": "specializ",
+        "radicals": [
+            "specializ",
+            "specialize"
+        ]
+    },
+    {
+        "radical": "speculat",
+        "radicals": [
+            "speculat",
+            "speculate",
+            "speculati",
+            "speculation"
+        ]
+    },
+    {
+        "radical": "speculati",
+        "radicals": [
+            "speculati",
+            "speculation"
+        ]
+    },
+    {
+        "radical": "speed",
+        "radicals": [
+            "speed",
+            "speede"
+        ]
+    },
+    {
+        "radical": "spring",
+        "radicals": [
+            "spring",
+            "springbok"
+        ]
+    },
+    {
+        "radical": "staff",
+        "radicals": [
+            "staff",
+            "staffe"
+        ]
+    },
+    {
+        "radical": "stalin",
+        "radicals": [
+            "stalin",
+            "stalinis"
+        ]
+    },
+    {
+        "radical": "stamp",
+        "radicals": [
+            "stamp",
+            "stamped"
+        ]
+    },
+    {
+        "radical": "stamped",
+        "radicals": [
+            "stamped",
+            "stampede"
+        ]
+    },
+    {
+        "radical": "star",
+        "radicals": [
+            "star",
+            "stark",
+            "start"
+        ]
+    },
+    {
+        "radical": "start",
+        "radicals": [
+            "start",
+            "starte"
+        ]
+    },
+    {
+        "radical": "state",
+        "radicals": [
+            "state",
+            "states"
+        ]
+    },
+    {
+        "radical": "states",
+        "radicals": [
+            "states",
+            "statesman"
+        ]
+    },
+    {
+        "radical": "statu",
+        "radicals": [
+            "statu",
+            "statue",
+            "statues",
+            "statute"
+        ]
+    },
+    {
+        "radical": "statue",
+        "radicals": [
+            "statue",
+            "statues"
+        ]
+    },
+    {
+        "radical": "steam",
+        "radicals": [
+            "steam",
+            "steame"
+        ]
+    },
+    {
+        "radical": "stephen",
+        "radicals": [
+            "stephen",
+            "stephens"
+        ]
+    },
+    {
+        "radical": "stiff",
+        "radicals": [
+            "stiff",
+            "stiffe",
+            "stiffen"
+        ]
+    },
+    {
+        "radical": "stiffe",
+        "radicals": [
+            "stiffe",
+            "stiffen"
+        ]
+    },
+    {
+        "radical": "stockpil",
+        "radicals": [
+            "stockpil",
+            "stockpile"
+        ]
+    },
+    {
+        "radical": "strai",
+        "radicals": [
+            "strai",
+            "strain"
+        ]
+    },
+    {
+        "radical": "straight",
+        "radicals": [
+            "straight",
+            "straighten"
+        ]
+    },
+    {
+        "radical": "strange",
+        "radicals": [
+            "strange",
+            "stranger"
+        ]
+    },
+    {
+        "radical": "strateg",
+        "radicals": [
+            "strateg",
+            "strategi",
+            "strategic",
+            "strategist"
+        ]
+    },
+    {
+        "radical": "strategi",
+        "radicals": [
+            "strategi",
+            "strategic",
+            "strategist"
+        ]
+    },
+    {
+        "radical": "strea",
+        "radicals": [
+            "strea",
+            "streak",
+            "stream"
+        ]
+    },
+    {
+        "radical": "strength",
+        "radicals": [
+            "strength",
+            "strengthen"
+        ]
+    },
+    {
+        "radical": "stretch",
+        "radicals": [
+            "stretch",
+            "stretche"
+        ]
+    },
+    {
+        "radical": "stride",
+        "radicals": [
+            "stride",
+            "strident"
+        ]
+    },
+    {
+        "radical": "strike",
+        "radicals": [
+            "strike",
+            "striker"
+        ]
+    },
+    {
+        "radical": "strong",
+        "radicals": [
+            "strong",
+            "stronge"
+        ]
+    },
+    {
+        "radical": "substanti",
+        "radicals": [
+            "substanti",
+            "substantial"
+        ]
+    },
+    {
+        "radical": "subtl",
+        "radicals": [
+            "subtl",
+            "subtle"
+        ]
+    },
+    {
+        "radical": "subver",
+        "radicals": [
+            "subversi",
+            "subvert"
+        ]
+    },
+    {
+        "radical": "subversi",
+        "radicals": [
+            "subversi",
+            "subversive"
+        ]
+    },
+    {
+        "radical": "success",
+        "radicals": [
+            "success",
+            "successful",
+            "successi",
+            "successive",
+            "successor"
+        ]
+    },
+    {
+        "radical": "successi",
+        "radicals": [
+            "successi",
+            "successive"
+        ]
+    },
+    {
+        "radical": "suggest",
+        "radicals": [
+            "suggest",
+            "suggesti",
+            "suggestion"
+        ]
+    },
+    {
+        "radical": "suggesti",
+        "radicals": [
+            "suggesti",
+            "suggestion"
+        ]
+    },
+    {
+        "radical": "sultan",
+        "radicals": [
+            "sultan",
+            "sultanate"
+        ]
+    },
+    {
+        "radical": "summe",
+        "radicals": [
+            "summe",
+            "summer"
+        ]
+    },
+    {
+        "radical": "summon",
+        "radicals": [
+            "summon",
+            "summons"
+        ]
+    },
+    {
+        "radical": "support",
+        "radicals": [
+            "support",
+            "supporte",
+            "supporter"
+        ]
+    },
+    {
+        "radical": "supporte",
+        "radicals": [
+            "supporte",
+            "supporter"
+        ]
+    },
+    {
+        "radical": "suppose",
+        "radicals": [
+            "suppose",
+            "supposed"
+        ]
+    },
+    {
+        "radical": "surround",
+        "radicals": [
+            "surround",
+            "surrounding"
+        ]
+    },
+    {
+        "radical": "surviv",
+        "radicals": [
+            "surviv",
+            "survive",
+            "survivor"
+        ]
+    },
+    {
+        "radical": "suspicio",
+        "radicals": [
+            "suspicio",
+            "suspicion",
+            "suspicious"
+        ]
+    },
+    {
+        "radical": "swede",
+        "radicals": [
+            "swede",
+            "sweden"
+        ]
+    },
+    {
+        "radical": "symbol",
+        "radicals": [
+            "symbol",
+            "symboli",
+            "symbolic",
+            "symbolize"
+        ]
+    },
+    {
+        "radical": "symboli",
+        "radicals": [
+            "symboli",
+            "symbolic",
+            "symbolize"
+        ]
+    },
+    {
+        "radical": "sympathize",
+        "radicals": [
+            "sympathize",
+            "sympathizer"
+        ]
+    },
+    {
+        "radical": "syria",
+        "radicals": [
+            "syria",
+            "syrian"
+        ]
+    },
+    {
+        "radical": "tactic",
+        "radicals": [
+            "tactic",
+            "tactical"
+        ]
+    },
+    {
+        "radical": "tal",
+        "radicals": [
+            "tal",
+            "tale",
+            "talk"
+        ]
+    },
+    {
+        "radical": "talk",
+        "radicals": [
+            "talk",
+            "talke"
+        ]
+    },
+    {
+        "radical": "tan",
+        "radicals": [
+            "tan",
+            "tank"
+        ]
+    },
+    {
+        "radical": "tappe",
+        "radicals": [
+            "tappe",
+            "tapper"
+        ]
+    },
+    {
+        "radical": "tea",
+        "radicals": [
+            "tea",
+            "team",
+            "tear"
+        ]
+    },
+    {
+        "radical": "teach",
+        "radicals": [
+            "teach",
+            "teache",
+            "teacher"
+        ]
+    },
+    {
+        "radical": "teache",
+        "radicals": [
+            "teache",
+            "teacher"
+        ]
+    },
+    {
+        "radical": "technolog",
+        "radicals": [
+            "technolog",
+            "technologi"
+        ]
+    },
+    {
+        "radical": "telephon",
+        "radicals": [
+            "telephon",
+            "telephone"
+        ]
+    },
+    {
+        "radical": "temper",
+        "radicals": [
+            "temper",
+            "tempera",
+            "temperat"
+        ]
+    },
+    {
+        "radical": "tempera",
+        "radicals": [
+            "tempera",
+            "temperat"
+        ]
+    },
+    {
+        "radical": "temperat",
+        "radicals": [
+            "temperat",
+            "temperature"
+        ]
+    },
+    {
+        "radical": "ten",
+        "radicals": [
+            "ten",
+            "teng",
+            "tens",
+            "tent"
+        ]
+    },
+    {
+        "radical": "territor",
+        "radicals": [
+            "territor",
+            "territori",
+            "territory"
+        ]
+    },
+    {
+        "radical": "terror",
+        "radicals": [
+            "terror",
+            "terroris",
+            "terrorist"
+        ]
+    },
+    {
+        "radical": "terroris",
+        "radicals": [
+            "terroris",
+            "terrorist"
+        ]
+    },
+    {
+        "radical": "tes",
+        "radicals": [
+            "tes",
+            "test"
+        ]
+    },
+    {
+        "radical": "theatric",
+        "radicals": [
+            "theatric",
+            "theatrical"
+        ]
+    },
+    {
+        "radical": "theoretic",
+        "radicals": [
+            "theoretic",
+            "theoretical",
+            "theoretician"
+        ]
+    },
+    {
+        "radical": "thin",
+        "radicals": [
+            "thin",
+            "thing"
+        ]
+    },
+    {
+        "radical": "thought",
+        "radicals": [
+            "thought",
+            "thoughtful"
+        ]
+    },
+    {
+        "radical": "threat",
+        "radicals": [
+            "threat",
+            "threaten"
+        ]
+    },
+    {
+        "radical": "thrill",
+        "radicals": [
+            "thrill",
+            "thrille"
+        ]
+    },
+    {
+        "radical": "thron",
+        "radicals": [
+            "thron",
+            "throne",
+            "throng"
+        ]
+    },
+    {
+        "radical": "thrus",
+        "radicals": [
+            "thrus",
+            "thrust"
+        ]
+    },
+    {
+        "radical": "ticke",
+        "radicals": [
+            "ticke",
+            "ticket"
+        ]
+    },
+    {
+        "radical": "tight",
+        "radicals": [
+            "tight",
+            "tighte",
+            "tighten"
+        ]
+    },
+    {
+        "radical": "tighte",
+        "radicals": [
+            "tighte",
+            "tighten"
+        ]
+    },
+    {
+        "radical": "tip",
+        "radicals": [
+            "tip",
+            "tips"
+        ]
+    },
+    {
+        "radical": "tit",
+        "radicals": [
+            "tit",
+            "tito"
+        ]
+    },
+    {
+        "radical": "tolera",
+        "radicals": [
+            "toleran",
+            "tolerate"
+        ]
+    },
+    {
+        "radical": "tom",
+        "radicals": [
+            "tom",
+            "tomb"
+        ]
+    },
+    {
+        "radical": "ton",
+        "radicals": [
+            "ton",
+            "tone"
+        ]
+    },
+    {
+        "radical": "torpedo",
+        "radicals": [
+            "torpedo",
+            "torpedoe"
+        ]
+    },
+    {
+        "radical": "tot",
+        "radicals": [
+            "tot",
+            "tote"
+        ]
+    },
+    {
+        "radical": "touch",
+        "radicals": [
+            "touch",
+            "touche"
+        ]
+    },
+    {
+        "radical": "tough",
+        "radicals": [
+            "tough",
+            "toughe"
+        ]
+    },
+    {
+        "radical": "tour",
+        "radicals": [
+            "tour",
+            "toure"
+        ]
+    },
+    {
+        "radical": "touris",
+        "radicals": [
+            "touris",
+            "tourist"
+        ]
+    },
+    {
+        "radical": "trac",
+        "radicals": [
+            "trac",
+            "trace",
+            "track",
+            "tract"
+        ]
+    },
+    {
+        "radical": "trade",
+        "radicals": [
+            "trade",
+            "trader"
+        ]
+    },
+    {
+        "radical": "tradition",
+        "radicals": [
+            "tradition",
+            "traditional"
+        ]
+    },
+    {
+        "radical": "translat",
+        "radicals": [
+            "translat",
+            "translate",
+            "translati",
+            "translation"
+        ]
+    },
+    {
+        "radical": "translati",
+        "radicals": [
+            "translati",
+            "translation"
+        ]
+    },
+    {
+        "radical": "transmit",
+        "radicals": [
+            "transmit",
+            "transmitt",
+            "transmitte"
+        ]
+    },
+    {
+        "radical": "transmitt",
+        "radicals": [
+            "transmitt",
+            "transmitte"
+        ]
+    },
+    {
+        "radical": "travel",
+        "radicals": [
+            "travel",
+            "travele"
+        ]
+    },
+    {
+        "radical": "treacher",
+        "radicals": [
+            "treacher",
+            "treacherous"
+        ]
+    },
+    {
+        "radical": "treasur",
+        "radicals": [
+            "treasur",
+            "treasure"
+        ]
+    },
+    {
+        "radical": "tri",
+        "radicals": [
+            "tri",
+            "trim",
+            "trip"
+        ]
+    },
+    {
+        "radical": "tribe",
+        "radicals": [
+            "tribe",
+            "tribes"
+        ]
+    },
+    {
+        "radical": "tribes",
+        "radicals": [
+            "tribes",
+            "tribesmen"
+        ]
+    },
+    {
+        "radical": "tribun",
+        "radicals": [
+            "tribun",
+            "tribunal",
+            "tribune"
+        ]
+    },
+    {
+        "radical": "trick",
+        "radicals": [
+            "trick",
+            "trickle"
+        ]
+    },
+    {
+        "radical": "trigger",
+        "radicals": [
+            "trigger",
+            "triggerm"
+        ]
+    },
+    {
+        "radical": "trip",
+        "radicals": [
+            "trip",
+            "tripl"
+        ]
+    },
+    {
+        "radical": "tripl",
+        "radicals": [
+            "tripl",
+            "triple"
+        ]
+    },
+    {
+        "radical": "triumph",
+        "radicals": [
+            "triumph",
+            "triumpha",
+            "triumphant"
+        ]
+    },
+    {
+        "radical": "triumpha",
+        "radicals": [
+            "triumpha",
+            "triumphant"
+        ]
+    },
+    {
+        "radical": "troop",
+        "radicals": [
+            "troop",
+            "troope",
+            "troops"
+        ]
+    },
+    {
+        "radical": "trouble",
+        "radicals": [
+            "trouble",
+            "troublemak",
+            "troubles"
+        ]
+    },
+    {
+        "radical": "troublemak",
+        "radicals": [
+            "troublemak",
+            "troublemaker"
+        ]
+    },
+    {
+        "radical": "tun",
+        "radicals": [
+            "tun",
+            "tune",
+            "tung"
+        ]
+    },
+    {
+        "radical": "tunis",
+        "radicals": [
+            "tunis",
+            "tunisia"
+        ]
+    },
+    {
+        "radical": "tunisia",
+        "radicals": [
+            "tunisia",
+            "tunisian"
+        ]
+    },
+    {
+        "radical": "ultimat",
+        "radicals": [
+            "ultimat",
+            "ultimate"
+        ]
+    },
+    {
+        "radical": "underlin",
+        "radicals": [
+            "underlin",
+            "underline"
+        ]
+    },
+    {
+        "radical": "undermin",
+        "radicals": [
+            "undermin",
+            "undermine"
+        ]
+    },
+    {
+        "radical": "understand",
+        "radicals": [
+            "understand",
+            "understandabl"
+        ]
+    },
+    {
+        "radical": "undertak",
+        "radicals": [
+            "undertak",
+            "undertake",
+            "undertaking"
+        ]
+    },
+    {
+        "radical": "unit",
+        "radicals": [
+            "unit",
+            "unite"
+        ]
+    },
+    {
+        "radical": "univers",
+        "radicals": [
+            "univers",
+            "universal",
+            "universit"
+        ]
+    },
+    {
+        "radical": "utopia",
+        "radicals": [
+            "utopia",
+            "utopian"
+        ]
+    },
+    {
+        "radical": "vacation",
+        "radicals": [
+            "vacation",
+            "vacationer"
+        ]
+    },
+    {
+        "radical": "vacillati",
+        "radicals": [
+            "vacillati",
+            "vacillation"
+        ]
+    },
+    {
+        "radical": "vale",
+        "radicals": [
+            "vale",
+            "valer"
+        ]
+    },
+    {
+        "radical": "valer",
+        "radicals": [
+            "valer",
+            "valera",
+            "valeri"
+        ]
+    },
+    {
+        "radical": "vehemen",
+        "radicals": [
+            "vehemen",
+            "vehement"
+        ]
+    },
+    {
+        "radical": "victor",
+        "radicals": [
+            "victor",
+            "victori",
+            "victoria"
+        ]
+    },
+    {
+        "radical": "victori",
+        "radicals": [
+            "victori",
+            "victoria",
+            "victorious"
+        ]
+    },
+    {
+        "radical": "vie",
+        "radicals": [
+            "vie",
+            "view"
+        ]
+    },
+    {
+        "radical": "villa",
+        "radicals": [
+            "villa",
+            "village",
+            "villain"
+        ]
+    },
+    {
+        "radical": "village",
+        "radicals": [
+            "village",
+            "villager"
+        ]
+    },
+    {
+        "radical": "violen",
+        "radicals": [
+            "violen",
+            "violent"
+        ]
+    },
+    {
+        "radical": "virgin",
+        "radicals": [
+            "virgin",
+            "virginia"
+        ]
+    },
+    {
+        "radical": "visit",
+        "radicals": [
+            "visit",
+            "visitor"
+        ]
+    },
+    {
+        "radical": "vita",
+        "radicals": [
+            "vita",
+            "vital"
+        ]
+    },
+    {
+        "radical": "vote",
+        "radicals": [
+            "vote",
+            "voter"
+        ]
+    },
+    {
+        "radical": "wait",
+        "radicals": [
+            "wait",
+            "waite"
+        ]
+    },
+    {
+        "radical": "waite",
+        "radicals": [
+            "waite",
+            "waiter"
+        ]
+    },
+    {
+        "radical": "walk",
+        "radicals": [
+            "walk",
+            "walke"
+        ]
+    },
+    {
+        "radical": "wall",
+        "radicals": [
+            "wall",
+            "walle"
+        ]
+    },
+    {
+        "radical": "walle",
+        "radicals": [
+            "walle",
+            "walled"
+        ]
+    },
+    {
+        "radical": "war",
+        "radicals": [
+            "war",
+            "ward"
+        ]
+    },
+    {
+        "radical": "washing",
+        "radicals": [
+            "washing",
+            "washington"
+        ]
+    },
+    {
+        "radical": "watch",
+        "radicals": [
+            "watch",
+            "watche"
+        ]
+    },
+    {
+        "radical": "wee",
+        "radicals": [
+            "wee",
+            "week"
+        ]
+    },
+    {
+        "radical": "weigh",
+        "radicals": [
+            "weigh",
+            "weight"
+        ]
+    },
+    {
+        "radical": "wide",
+        "radicals": [
+            "wide",
+            "widen"
+        ]
+    },
+    {
+        "radical": "widow",
+        "radicals": [
+            "widow",
+            "widowe"
+        ]
+    },
+    {
+        "radical": "wild",
+        "radicals": [
+            "wild",
+            "wilde"
+        ]
+    },
+    {
+        "radical": "win",
+        "radicals": [
+            "win",
+            "wind",
+            "wine",
+            "wing",
+            "wink"
+        ]
+    },
+    {
+        "radical": "wind",
+        "radicals": [
+            "wind",
+            "winds"
+        ]
+    },
+    {
+        "radical": "winds",
+        "radicals": [
+            "winds",
+            "windsor"
+        ]
+    },
+    {
+        "radical": "witness",
+        "radicals": [
+            "witness",
+            "witnesse"
+        ]
+    },
+    {
+        "radical": "woo",
+        "radicals": [
+            "woo",
+            "wood"
+        ]
+    },
+    {
+        "radical": "wood",
+        "radicals": [
+            "wood",
+            "woode"
+        ]
+    },
+    {
+        "radical": "work",
+        "radicals": [
+            "work",
+            "worke"
+        ]
+    },
+    {
+        "radical": "worke",
+        "radicals": [
+            "worke",
+            "worker"
+        ]
+    },
+    {
+        "radical": "working",
+        "radicals": [
+            "working",
+            "workingman"
+        ]
+    },
+    {
+        "radical": "worrie",
+        "radicals": [
+            "worrie",
+            "worried"
+        ]
+    },
+    {
+        "radical": "write",
+        "radicals": [
+            "write",
+            "writer"
+        ]
+    },
+    {
+        "radical": "yar",
+        "radicals": [
+            "yar",
+            "yard"
+        ]
+    },
+    {
+        "radical": "yemen",
+        "radicals": [
+            "yemen",
+            "yemeni"
+        ]
+    },
+    {
+        "radical": "young",
+        "radicals": [
+            "young",
+            "younge"
+        ]
+    },
+    {
+        "radical": "yugoslav",
+        "radicals": [
+            "yugoslav",
+            "yugoslavia"
+        ]
+    },
+    {
+        "radical": "zionis",
+        "radicals": [
+            "zionis",
+            "zionist"
+        ]
+    }
+]

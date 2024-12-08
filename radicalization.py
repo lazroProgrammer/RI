@@ -4,6 +4,10 @@ from tokenization import get_unique_words
 from test import *
 from collections import defaultdict
 
+b1= False
+b2= False
+words_bigrams=None
+radicals_bigram=None
 def find_missed_words(merged_file):
     # load the merged radicals JSON
     with open(merged_file, 'r') as file:
@@ -72,14 +76,19 @@ def find_words_starting_with(input_json_file, start_char):
 def same_radical(word1, word2, isWord):
     # if the two words are similar, it gives the radical
     # else it gives none
+    global b1, b2, words_bigrams, radicals_bigram
     if isWord:
-        with open("outputs/words/bigrams.json") as file:
-            words_bigrams=json.load(file)
+        if not(b1):
+            with open("outputs/words/bigrams.json") as file:
+                words_bigrams=json.load(file)
+            b1=True
         bigramme1=words_bigrams[word1]
         bigramme2=words_bigrams[word2]
     else:
-        with open("outputs/radicals/radicals_bigram.json") as file2:
-            radicals_bigram=json.load(file2)
+        if not(b2):
+            with open("outputs/radicals/radicals_bigram.json") as file2:
+                radicals_bigram=json.load(file2)
+            b2=True
         bigramme1= radicals_bigram[word1]
         bigramme2= radicals_bigram[word2]
     percentage= calculate_percentage(bigramme1, bigramme2)

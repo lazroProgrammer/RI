@@ -19,7 +19,7 @@ def ponderate_tf_idf():
     for node in radicalized_docs:
         radical = node["word"]
         nb_docs = node["nb_docs"]
-        idf = math.log( (doc_count / (1 + nb_docs)))  # Smoothing factor
+        idf = math.log( (doc_count / (1 + nb_docs)))  # need to do in base 10 here
         for doc, count in node["docs"].items():
             tf = count
             tf_idf_docs[radical][doc] = tf * idf 
