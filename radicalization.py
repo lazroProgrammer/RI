@@ -4,10 +4,32 @@ from tokenization import get_unique_words
 from test import *
 from collections import defaultdict
 
-with open("outputs/words/bigrams.json") as file:
-    words_bigrams=json.load(file)
-with open("outputs/radicals/radicals_bigram.json") as file2:
-    radicals_bigram=json.load(file2)
+def find_missed_words(merged_file):
+    # load the merged radicals JSON
+    with open(merged_file, 'r') as file:
+        merged_data = json.load(file)
+    with open('outputs/words/bigrams.json') as file:
+        words_list=json.load(file)
+        
+    words_list= words_list.keys()
+    # flatten all words in the merged JSON into a single set
+    merged_words = set()
+
+    # check if merged_data is a dictionary-based format
+    if isinstance(merged_data, dict):
+        for words in merged_data.values():
+            merged_words.update(words)
+
+    # if merged_data is a list of dictionaries, handle that format
+    elif isinstance(merged_data, list):
+        for entry in merged_data:
+            merged_words.update(entry["words"])
+    # find words that are not in the merged JSON
+    missed_words = [word for word in words_list if word not in merged_words]
+    print("there are",len(missed_words),"missed words out of", len(words_list))
+    with open("missed_words.json","w") as file:
+        json.dump(missed_words,file,indent=4, sort_keys=True)
+    return missed_words
     
 def write_json(name, data):
     with open(name, 'w') as file:
@@ -38,8 +60,7 @@ def calculate_percentage(list1, list2):
     return len(compare_and_match_bigrams(list1,list2)*2) / (len(list1) + len(list2))
 
 def create_word_bigrams_json(list: list[str], output):
-    # words to bigrams dictionary
-
+     
     bigrams_dict = {word: generate_bigramme(word) for word in list}
     write_json(output,bigrams_dict)
         
@@ -52,9 +73,13 @@ def same_radical(word1, word2, isWord):
     # if the two words are similar, it gives the radical
     # else it gives none
     if isWord:
+        with open("outputs/words/bigrams.json") as file:
+            words_bigrams=json.load(file)
         bigramme1=words_bigrams[word1]
         bigramme2=words_bigrams[word2]
     else:
+        with open("outputs/radicals/radicals_bigram.json") as file2:
+            radicals_bigram=json.load(file2)
         bigramme1= radicals_bigram[word1]
         bigramme2= radicals_bigram[word2]
     percentage= calculate_percentage(bigramme1, bigramme2)
@@ -134,7 +159,7 @@ def radicals_bigrams():
     with open("outputs/radicalization_process/grouped_by_radicals.json","r") as file:
         radicals_dict=json.load(file)
     radicals=[entry["radical"] for entry in radicals_dict]
-    create_word_bigrams_json(radicals,"outputs/radicals_bigram.json")
+    create_word_bigrams_json(radicals,"outputs/radicals/radicals_bigram.json")
     
 def radicals_grouping():
     # groups radicals that have more than a 75% similarity level two by two
@@ -205,7 +230,7 @@ def remove_radicalized_radicals():
             if not found:
                 radical_map[radical] = radicals
 
-    # Format the json
+    # format the json
     result= [
         {"radical": key, "radicals": sorted(list(radicals))}
         for key, radicals in radical_map.items()
@@ -217,17 +242,17 @@ def merge_radicals_and_words(file1, file2):
         words_data = json.load(f1)
         radicalized_data = json.load(f2)
 
-    # Build a map of radicals to words from File 1
+    # build a map of radicals to words from File 1
     words_by_radical = {
         entry["radical"]: set(entry["words"]) for entry in words_data
     }
 
-    # Helper function to recursively gather all connected radicals
+    # helper function to recursively gather all connected radicals
     def gather_radicals(radical, radical_map, visited=None):
         if visited is None:
             visited = set()
         if radical in visited:
-            return set()  # Avoid cycles
+            return set()  # avoid cycles
         visited.add(radical)
         result = set([radical])
         if radical in radical_map:
@@ -235,12 +260,12 @@ def merge_radicals_and_words(file1, file2):
                 result.update(gather_radicals(related, radical_map, visited))
         return result
 
-    # Build a map of radical relationships from File 2
+    # build a map of radical relationships from File 2
     radical_relationships = {
         entry["radical"]: entry["radicals"] for entry in radicalized_data
     }
 
-    # Process relationships to resolve all groups
+    # process relationships to resolve all groups
     resolved_radicals = {}
     for radical in radical_relationships:
         if radical not in resolved_radicals:
@@ -248,10 +273,10 @@ def merge_radicals_and_words(file1, file2):
             for r in all_related:
                 resolved_radicals[r] = all_related
 
-    # Merge words based on resolved radical groups
+    # merge words based on resolved radical groups
     merged_data = {}
     for group in resolved_radicals.values():
-        main_radical = min(group)  # Use the lexicographically smallest radical
+        main_radical = min(group)  # use the lexicographically smallest radical
         combined_words = set()
         for radical in group:
             if radical in words_by_radical:
@@ -260,12 +285,12 @@ def merge_radicals_and_words(file1, file2):
             merged_data[main_radical] = set()
         merged_data[main_radical].update(combined_words)
 
-    # Add remaining standalone radicals from File 1
+    # add remaining standalone radicals from File 1
     for radical, words in words_by_radical.items():
         if radical not in merged_data:
             merged_data[radical] = words
 
-    # Convert the merged data to the required JSON structure
+    # convert the merged data to the required JSON structure
     output_data = [
         {"radical": radical, "words": sorted(words)} for radical, words in merged_data.items()
     ]
@@ -289,9 +314,10 @@ def knowledge_table(radicals_file, missing_words):
       
     
 def radicalize_from_texts():
+    grouped_words_by_two("outputs/words/indexed_docs.json")
     group_by_radicals_with_duplicates("outputs/words/grouped_words_by_two.json")
     merge_radicals("outputs/radicalization_process/grouped_by_radicals_with_duplicates.json", "outputs/radicalization_process/grouped_by_radicals.json")
-    # radicals_bigrams()
+    radicals_bigrams()
     radicals_grouping()
     merge_radicals_of_radicals("outputs/radicalization_process/radicalized_radicals.json","outputs/radicalization_process/non_duplicated_radicalized_radicals.json")
     remove_radicalized_radicals()

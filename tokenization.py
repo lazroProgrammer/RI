@@ -47,7 +47,7 @@ def process_query(query):
     token_count = Counter(words)
     return dict(token_count)
 
-def create_json_output():
+def tokenize_files():
     result = {}
     files = get_file_names('Collection_TIME')
 
@@ -56,7 +56,7 @@ def create_json_output():
         result[file] = process_file(file_path)
 
     json_output = json.dumps(result, indent=4)
-    with open('tokenized_docs_count.json', 'w', encoding='utf-8') as json_file:
+    with open("outputs/words/indexed_docs.json", 'w', encoding='utf-8') as json_file:
         json_file.write(json_output)
 
 def get_unique_words(json_file):

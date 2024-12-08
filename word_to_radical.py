@@ -1,4 +1,4 @@
-from tokenization import create_json_output, get_unique_words 
+from tokenization import tokenize_files, get_unique_words 
 from radicalization import *
 import json
 from collections import defaultdict
@@ -7,7 +7,7 @@ def word_to_rad() :
     with open('outputs/knowledge_table.json', 'r') as kt_file:
         knowledge_table = json.load(kt_file)
 
-    with open("tokenized_docs_count.json", 'r') as docs_file:
+    with open("outputs/words/indexed_docs.json", 'r') as docs_file:
         tokenized_docs = json.load(docs_file)
 
     word_to_radical = {}
@@ -50,6 +50,5 @@ def transform_doc_word_counts():
 
     transformed_output = [{"word": word, "nb_docs": data["nb_docs"], "docs": data["docs"]} for word, data in fichier_inverse.items()]
 
-    with open("transformed_word_to_docs.json", 'w', encoding='utf-8') as output_file:
+    with open("fichier_inverse.json", 'w', encoding='utf-8') as output_file:
         json.dump(transformed_output, output_file, indent=4, ensure_ascii=False)
-transform_doc_word_counts()

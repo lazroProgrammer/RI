@@ -24,7 +24,7 @@ def query_to_rad():
             radical = word_to_radical[word]
             radicalized_words[radical] += count
         else:
-            radicalized_words[word] += count
+            
             continue
 
     
